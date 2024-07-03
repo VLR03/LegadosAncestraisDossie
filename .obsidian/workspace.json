@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "29f9f16e6b7aa78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72dbc1835c0a927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8ce9b4f130b36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a3ddf425e350375",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21819f72606efe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a521d707f6c812",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a4b119bfe89f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50a4da97be421f08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "275881fdf16634c9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca2dbb2848b5a3ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f298bd04d2dc848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee350ba99f64804",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9052ff3939a489f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36cbdb0ae59fc7aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3767e5d12780679e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md"
+              }
+            }
+          },
+          {
+            "id": "0b4fc4c8900ffda7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "b18306e2380a6030",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "7d8ce9b4f130b36a",
+  "lastOpenFiles": [
+    "Personagens/Secundários/Floresta/Animais/Normais/Uacari-branco.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Macaco-prego.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Tatu.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Lontra.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Capivara.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Veado.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Anta.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Lobo-guará.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Onça-pintada.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Sucuri.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Jacaré.md",
+    "Personagens/Secundários/Floresta/Animais/Corrompidos/Corrompidos.md",
+    "Personagens/Secundários/Floresta/Animais/Corrompidos",
+    "Personagens/Secundários/Floresta/Animais/Purificados/Purificados.md",
+    "Personagens/Secundários/Floresta/Animais/Purificados",
+    "Personagens/Secundários/Floresta/Animais/Normais/Normais.md",
+    "Personagens/Secundários/Floresta/Animais/Normais",
+    "Personagens/Secundários/Floresta/Animais/Animais.md",
+    "Personagens/Secundários/Floresta/Animais",
+    "Estrutura/Etapa 2.md",
+    "Personagens/Secundários/Floresta/Untitled.md",
+    "Personagens/Secundários/Floresta/Floresta.md",
+    "Personagens/Secundários/Floresta",
+    "Personagens/Secundários/Untitled.md",
+    "Estrutura/Etapa 1.md",
+    "Estrutura/Etapa 3.md",
+    "Estrutura/Etapa 4.md",
+    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
+    "Personagens/Secundários/Comunidade/Comunidade.md",
+    "Personagens/Secundários/Comunidade",
+    "Personagens/Secundários",
+    "Personagens/Principais",
+    "Tags",
+    "Ideias"
+  ]
+}
