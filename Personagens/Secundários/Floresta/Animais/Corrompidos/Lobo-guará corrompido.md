@@ -1,4 +1,4 @@
 ---
 sticker: lucide//dog
 ---
-dog
+---
