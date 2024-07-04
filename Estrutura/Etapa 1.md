@@ -1,3 +1,7 @@
+---
+sticker: lucide//flower
+---
+---
 # Conexões
 
 [[Etapa 2]]
@@ -52,3 +56,5 @@
 [[Catarina]]
 [[Seu Pedro]]
 [[Velha Nâmia]]
+
+---

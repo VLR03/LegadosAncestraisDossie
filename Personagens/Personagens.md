@@ -8,5 +8,6 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
+sticker: lucide//folder-open
 ---
 

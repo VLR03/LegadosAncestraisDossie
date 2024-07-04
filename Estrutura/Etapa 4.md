@@ -1,3 +1,7 @@
+---
+sticker: lucide//flower
+---
+---
 # Objetivo
 
 O jogo começa na vila onde os irmãos moram. Os dois vão estar conversando sobre precisar sair para realizar algumas tarefas.

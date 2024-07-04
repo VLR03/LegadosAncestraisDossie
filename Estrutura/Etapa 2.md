@@ -1,6 +1,10 @@
+---
+sticker: lucide//flower
+---
+---
 # Conexões
 
-[[Etapa 3]]
+- [[Etapa 3]]
 
 ---
 # Objetivo
@@ -31,6 +35,7 @@
 - Caminhar pela floresta
 - Diálogo com o Saci
 - Interações próprias
+- Interações com o ambiente
 
 ---
 # Personagens
@@ -40,4 +45,6 @@
 [[Saci Pererê]]
 ## Secundários
 [[Cuca]]
+[[Anta corrompida]]
 
+---

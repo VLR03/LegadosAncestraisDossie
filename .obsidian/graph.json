@@ -11,19 +11,19 @@
       "query": "path:Personagens  ",
       "color": {
         "a": 1,
-        "rgb": 7296997
+        "rgb": 14902471
       }
     },
     {
       "query": "path:Estrutura  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 8343003
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -32,6 +32,6 @@
   "repelStrength": 6.5625,
   "linkStrength": 1,
   "linkDistance": 196,
-  "scale": 1.4019828977761073,
+  "scale": 1.0000000000000067,
   "close": true
 }

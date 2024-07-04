@@ -1,3 +1,7 @@
+---
+sticker: lucide//flower
+---
+---
 # Conexões
 
 [[Etapa 4]]

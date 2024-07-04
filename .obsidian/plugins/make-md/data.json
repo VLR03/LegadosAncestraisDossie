@@ -45,13 +45,15 @@
     "//Estrutura",
     "//Ideias",
     "//Tags",
-    "//Personagens/Personagens/Principais",
     "//Personagens/Personagens/Secundários",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Normais",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Purificados",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Corrompidos"
+    "//1 - Personagens",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
+    "//Personagens/Personagens/Principais",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Corrompidos",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Purificados"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
