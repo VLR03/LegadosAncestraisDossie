@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Principais/Curupira.md",
+                "file": "Personagens/Secundários/Comunidade/Ladrão.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Principais/Curupira.md",
+                "file": "Personagens/Secundários/Comunidade/Ladrão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Principais/Curupira.md",
+                "file": "Personagens/Secundários/Comunidade/Ladrão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Principais/Curupira.md"
+                "file": "Personagens/Secundários/Comunidade/Ladrão.md"
               }
             }
           }
@@ -159,8 +159,12 @@
   "active": "0d02629a4b30c66a",
   "lastOpenFiles": [
     "Personagens/Principais/Cuca.md",
-    "Personagens/Principais/Curupira.md",
+    "Personagens/Principais/Menino.md",
     "Estrutura/Etapa 1.md",
+    "Personagens/Principais/Curupira.md",
+    "Personagens/Principais/Saci Pererê.md",
+    "Personagens/Principais/Menina.md",
+    "Personagens/Principais/Matinta Perera.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Veado.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Uacari-branco.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Tatu.md",
@@ -180,10 +184,6 @@
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Sucuri corrompido.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Sagui-imperador corrompido.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Onça-pintada corrompida.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Macaco-prego corrompido.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Lontra corrompida.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Lobo-guará corrompido.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Jacaré corrompido.md",
     "Tags",
     "Personagens/Secundários/Floresta/Animais/Corrompidos",
     "Personagens/Secundários/Floresta/Animais/Purificados",

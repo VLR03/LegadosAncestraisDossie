@@ -43,7 +43,11 @@
     "/",
     "//Personagens",
     "//1 - Personagens",
-    "//Personagens/Personagens/Principais"
+    "//Personagens/Personagens/Principais",
+    "//Ideias",
+    "//Estrutura",
+    "//Personagens/Personagens/Secundários",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
