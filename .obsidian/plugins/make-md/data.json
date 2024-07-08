@@ -40,16 +40,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Personagens",
     "//1 - Personagens",
-    "//Personagens/Personagens/Principais",
     "//Ideias",
-    "//Estrutura",
-    "//Personagens/Personagens/Secundários",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade"
+    "//Tags",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
