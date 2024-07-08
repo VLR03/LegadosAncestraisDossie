@@ -48,7 +48,8 @@
     "//Estrutura",
     "//Personagens/Personagens/Secundários",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais"
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

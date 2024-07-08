@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Principais/Saci Pererê.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Principais/Saci Pererê.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Principais/Saci Pererê.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Principais/Saci Pererê.md"
+                "file": "Personagens/Principais/Cuca.md"
               }
             }
           }
@@ -157,15 +157,25 @@
   },
   "active": "0d02629a4b30c66a",
   "lastOpenFiles": [
+    "Personagens/Principais/Matinta Perera.md",
+    "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
-    "Personagens/Principais/Matinta Perera.md",
-    "Estrutura/Etapa 1.md",
-    "Personagens/Principais/Cuca.md",
-    "Tags",
-    "Personagens/Secundários/Comunidade/Ladrão.md",
     "Personagens/Principais/Menino.md",
     "Personagens/Principais/Menina.md",
+    "Personagens/Secundários/Comunidade/Véio doido.md",
+    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
+    "Personagens/Secundários/Comunidade/Seu Pedro.md",
+    "Personagens/Secundários/Comunidade/Seu João.md",
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
+    "Personagens/Secundários/Comunidade/Catarina.md",
+    "Estrutura/Etapa 4.md",
+    "Estrutura/Etapa 3.md",
+    "Estrutura/Etapa 2.md",
+    "Estrutura/Etapa 1.md",
+    "Personagens/Secundários/Comunidade/Ladrão.md",
+    "Tags",
     "Personagens/Secundários/Floresta/Animais/Normais/Veado.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Uacari-branco.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Tatu.md",
@@ -174,15 +184,6 @@
     "Personagens/Secundários/Floresta/Animais/Normais/Onça-pintada.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Macaco-prego.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Lontra.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Jacaré.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Lobo-guará.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Capivara.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Anta.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Veado corrompido.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Uacari-branco corrompido.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Tatu corrompido.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Sucuri corrompido.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos",
     "Personagens/Secundários/Floresta/Animais/Purificados",
     "Personagens/Secundários/Floresta/Animais/Normais",

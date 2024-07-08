@@ -40,6 +40,8 @@ sticker: lucide//user
 
 - **Saci:** O Curupira sente certo desprezo em relação ao Saci graças a sua natureza travessa e irresponsável, cujas travessuras muitas vezes prejudicam a floresta que o ele tenta proteger.
 
+- **Matinta:** O Curupira têm pouco contato direto com a Matinta. Ele reconhece a autoridade dela sobre seu território, mas isso não o impede de entrar e sair caso seja necessário.
+
 - **Menina:** Inicialmente, ele a vê como uma ameaça, mas conforme ela purifica partes da floresta, ele começa a perceber que ela pode ser a chave para sua libertação.
 
 ---

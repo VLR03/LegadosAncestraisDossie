@@ -48,6 +48,8 @@ sticker: lucide//user
 
 - **Curupira:** O Curupira despreza o Saci, vendo-o como irresponsável e uma distração. O Saci, por outro lado, se diverte com a seriedade do Curupira, frequentemente pregando peças nele.
 
+- **Matinta:** Saci possui um prazer descomunal em importunar a Matinta. Sua relação é de amor e ódio onde todo o amor vêm do Saci, e todo o ódio vem da Matinta. Ele sabe que suas brincadeiras não devem ultrapassar certo limite caso ele queira manter sua cabeça.
+
 - **Menina:** Com a protagonista, o Saci é ambíguo. Ele a testa com suas travessuras, mas também oferece ajuda de forma enigmática, muitas vezes com uma condição ou uma brincadeira envolvida.
 
 ---

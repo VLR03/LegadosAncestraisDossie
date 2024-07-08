@@ -40,6 +40,8 @@ sticker: lucide//user
 
 - **Curupira:** Embora o Curupira também esteja corrompido, ele mantém um respeito relutante pela Cuca, reconhecendo seu poder, mas não concordando completamente com seus métodos.
 
+- **Matinta:** Matinta Perera e a Cuca têm uma relação tensa. Ambas são poderosas e temidas. Cuca acredita que corromper a Matinta é necessário para o estabelecimento do seu poder em toda a floresta.
+
 - **Menina:** A Cuca vê a irmã mais velha como uma ameaça direta ao seu domínio, pois sua habilidade de purificação pode desfazer tudo o que conquistou até o momento. No entanto, ela também vê um desafio intrigante e uma oportunidade de testar seus próprios limites.
 
 ---
