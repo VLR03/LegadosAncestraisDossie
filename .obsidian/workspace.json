@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Principais/Cuca.md",
+                "file": "Personagens/Principais/Menina.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Principais/Cuca.md",
+                "file": "Personagens/Principais/Menina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Principais/Cuca.md",
+                "file": "Personagens/Principais/Menina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Principais/Cuca.md"
+                "file": "Personagens/Principais/Menina.md"
               }
             }
           }
@@ -157,12 +157,15 @@
   },
   "active": "0d02629a4b30c66a",
   "lastOpenFiles": [
+    "Pasted image 20240708104422.png",
+    "Pasted image 20240708104035.png",
+    "Pasted image 20240708103720.png",
     "Personagens/Principais/Matinta Perera.md",
+    "Personagens/Principais/Menina.md",
     "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
     "Personagens/Principais/Menino.md",
-    "Personagens/Principais/Menina.md",
     "Personagens/Secundários/Comunidade/Véio doido.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
@@ -183,7 +186,6 @@
     "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Onça-pintada.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Macaco-prego.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Lontra.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos",
     "Personagens/Secundários/Floresta/Animais/Purificados",
     "Personagens/Secundários/Floresta/Animais/Normais",
