@@ -81,8 +81,39 @@ sticker: lucide//user
 ---
 ## Referências
 
+- **Qualidades:** 
+	- *Cabelo*
+	- *Cores*
+	- *Acessórios*
+	- *Composição geral*
+
+- **Ressalvas:** 
+	- *Falta a tatuagem*
+	- *Regata curta*
+	- *Corpo exagerado*
+
 ![[Pasted image 20240708103720.png]]
 
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Cabelo*
+	- *Rosto mais jovem*
+
+- **Ressalvas:** 
+	- *Falta a tatuagem*
+	- *Acessórios*
+	- *Regata curta*
+
 ![[Pasted image 20240708104035.png]]
+
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Tatuagem*
+
+- **Ressalvas:** 
+	- *Regata curta*
+	- *Acessórios*
 
 ![[Pasted image 20240708104422.png]]

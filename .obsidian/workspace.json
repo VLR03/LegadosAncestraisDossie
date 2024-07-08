@@ -11,9 +11,11 @@
             "id": "0d02629a4b30c66a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Personagens/Principais/Menina.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personagens/Principais/Menina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personagens/Principais/Menina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personagens/Principais/Menina.md"
+              }
             }
           }
         ],
@@ -151,6 +157,9 @@
   },
   "active": "0d02629a4b30c66a",
   "lastOpenFiles": [
+    "Personagens/Principais/Saci Pererê.md",
+    "Personagens/Principais/Curupira.md",
+    "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Menina.md",
     "Imagens/Pasted image 20240708105145.png",
     "Imagens/Pasted image 20240708103720.png",
@@ -162,9 +171,6 @@
     "Pasted image 20240708104035.png",
     "Pasted image 20240708103720.png",
     "Personagens/Principais/Matinta Perera.md",
-    "Personagens/Principais/Cuca.md",
-    "Personagens/Principais/Curupira.md",
-    "Personagens/Principais/Saci Pererê.md",
     "Personagens/Principais/Menino.md",
     "Personagens/Secundários/Comunidade/Véio doido.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
