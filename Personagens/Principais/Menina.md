@@ -161,3 +161,17 @@ sticker: lucide//user
 	- *Rosto*
 
 ![[Pasted image 20240709100829.png]]
+
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Acessórios*
+	- *Rosto mais jovem*
+
+- **Ressalvas:** 
+	- *Regata muito curta*
+	- *Brinco e decorações do cabelo*
+	- *Corpo exagerado*
+	- *Cabelo exagerado*
+
+![[Pasted image 20240709115654.png]]

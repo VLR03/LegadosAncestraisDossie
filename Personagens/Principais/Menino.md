@@ -35,7 +35,7 @@ sticker: lucide//user
 
 - **Cabelo preto curto:** O menino tem cabelo curto e escuro, que às vezes cai sobre seus olhos.
 
-- **Olhos grandes e curiosos:** Seus olhos são grandes e curiosos, sempre brilhando com um misto de medo e esperança. Eles refletem sua inocência.
+- **Olhos grandes:** Seus olhos castanhos são grandes e curiosos, sempre brilhando com um misto de medo e esperança. Eles refletem sua inocência.
 
 - **Vestuário:** Ele veste roupas simples e adequadas para uma criança de uma comunidade ribeirinha, como uma camisa de algodão e shorts.
 
