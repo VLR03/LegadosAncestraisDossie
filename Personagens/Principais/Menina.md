@@ -86,6 +86,22 @@ sticker: lucide//user
 	- *Cores*
 	- *Acessórios*
 	- *Composição geral*
+	- *Rosto jovem*
+	- *Tatuagem*
+
+- **Ressalvas:** 
+	- *Regata curta*
+	- *Corpo exagerado*
+
+![[Pasted image 20240709100315.png]]
+
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Cabelo*
+	- *Cores*
+	- *Acessórios*
+	- *Composição geral*
 
 - **Ressalvas:** 
 	- *Falta a tatuagem*
@@ -93,6 +109,19 @@ sticker: lucide//user
 	- *Corpo exagerado*
 
 ![[Pasted image 20240708103720.png]]
+
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Cabelo*
+	- *Rosto mais jovem*
+	- *Acessórios*
+	- *Tatuagem*
+
+- **Ressalvas:** 
+	- *Regata curta*
+
+![[Pasted image 20240709100607.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -118,3 +147,17 @@ sticker: lucide//user
 	- *Corpo exagerado*
 
 ![[Pasted image 20240708104422.png]]
+
+**--**                                                                                                                                                              **--**
+
+- **Qualidades:** 
+	- *Tatuagem*
+	- *Regata normal*
+	- *Mochila*
+	- *Acessórios dos braços*
+
+- **Ressalvas:** 
+	- *Acessórios de ouro*
+	- *Rosto*
+
+![[Pasted image 20240709100829.png]]
