@@ -115,5 +115,6 @@ sticker: lucide//user
 - **Ressalvas:** 
 	- *Regata curta*
 	- *Acessórios*
+	- *Corpo exagerado*
 
 ![[Pasted image 20240708104422.png]]

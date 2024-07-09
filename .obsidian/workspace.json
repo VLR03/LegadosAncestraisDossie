@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3373528cbd897c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Principais/Menina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,12 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d02629a4b30c66a",
+  "active": "3373528cbd897c53",
   "lastOpenFiles": [
-    "Personagens/Principais/Saci Pererê.md",
-    "Personagens/Principais/Curupira.md",
+    "Estrutura/Etapa 2.md",
+    "Personagens/Principais/Menino.md",
     "Personagens/Principais/Cuca.md",
+    "Personagens/Principais/Curupira.md",
+    "Personagens/Principais/Saci Pererê.md",
     "Personagens/Principais/Menina.md",
+    "Personagens/Principais/Matinta Perera.md",
     "Imagens/Pasted image 20240708105145.png",
     "Imagens/Pasted image 20240708103720.png",
     "Imagens/Pasted image 20240708104035.png",
@@ -170,8 +186,6 @@
     "Pasted image 20240708104422.png",
     "Pasted image 20240708104035.png",
     "Pasted image 20240708103720.png",
-    "Personagens/Principais/Matinta Perera.md",
-    "Personagens/Principais/Menino.md",
     "Personagens/Secundários/Comunidade/Véio doido.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
@@ -181,7 +195,6 @@
     "Personagens/Secundários/Comunidade/Catarina.md",
     "Estrutura/Etapa 4.md",
     "Estrutura/Etapa 3.md",
-    "Estrutura/Etapa 2.md",
     "Estrutura/Etapa 1.md",
     "Personagens/Secundários/Comunidade/Ladrão.md",
     "Tags",
