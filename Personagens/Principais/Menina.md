@@ -145,6 +145,7 @@ sticker: lucide//user
 	- *Regata curta*
 	- *Acessórios*
 	- *Corpo exagerado*
+	- *Cabelo*
 
 ![[Pasted image 20240708104422.png]]
 
@@ -159,6 +160,7 @@ sticker: lucide//user
 - **Ressalvas:** 
 	- *Acessórios de ouro*
 	- *Rosto*
+	- *Cabelo*
 
 ![[Pasted image 20240709100829.png]]
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Principais/Menina.md",
+                "file": "Personagens/Secundários/Comunidade/Catarina.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Principais/Menina.md",
+                "file": "Personagens/Secundários/Comunidade/Catarina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Principais/Menina.md",
+                "file": "Personagens/Secundários/Comunidade/Catarina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Principais/Menina.md"
+                "file": "Personagens/Secundários/Comunidade/Catarina.md"
               }
             }
           }
@@ -170,9 +170,10 @@
   },
   "active": "3373528cbd897c53",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20240709115654.png",
     "Personagens/Principais/Menino.md",
+    "Personagens/Secundários/Comunidade/Catarina.md",
     "Personagens/Principais/Menina.md",
+    "Imagens/Pasted image 20240709115654.png",
     "Imagens/Pasted image 20240709100829.png",
     "Imagens/Pasted image 20240709100607.png",
     "Imagens/Pasted image 20240709100315.png",
@@ -189,14 +190,12 @@
     "Nova pasta",
     "Pasted image 20240708104422.png",
     "Pasted image 20240708104035.png",
-    "Pasted image 20240708103720.png",
     "Personagens/Secundários/Comunidade/Véio doido.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
     "Personagens/Secundários/Comunidade/Seu João.md",
     "Personagens/Secundários/Comunidade/Pedrinho.md",
     "Personagens/Secundários/Comunidade/Dona Marta.md",
-    "Personagens/Secundários/Comunidade/Catarina.md",
     "Estrutura/Etapa 4.md",
     "Estrutura/Etapa 3.md",
     "Estrutura/Etapa 1.md",
