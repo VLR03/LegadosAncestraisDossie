@@ -30,8 +30,8 @@ sticker: lucide//user
 
 - **Dona Marta:** Seu Pedro vê Dona Marta como uma figura de autoridade e sabedoria na comunidade. Ele frequentemente busca seus conselhos e valoriza sua opinião.
 
-- **Velha Nâmia:** Ele tem um profundo respeito por Velha Nâmia e suas tradições. Seu Pedro acredita na importância de preservar o conhecimento tradicional e segue suas orientações.
+- **Velha Nâmia:** Sendo sua avó, Seu Pedro tem um profundo respeito por Velha Nâmia e suas tradições. Seu Pedro acredita na importância de preservar o conhecimento tradicional e segue suas orientações.
 
-- **Catarina:** Ele cuida de Catarina como se fosse sua própria filha, especialmente nas brincadeiras com Pedrinho. Ele vê nela um bom exemplo para seu filho.
+- **Catarina:** Ele cuida de Catarina como se fosse sua própria filha. Ele vê nela um bom exemplo para seu filho.
 
 ---
