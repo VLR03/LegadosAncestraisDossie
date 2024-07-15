@@ -11,6 +11,18 @@ sticker: lucide//user
 - **Calma e serena:** Ela possui uma presença calmante, capaz de tranquilizar aqueles ao seu redor. Sua serenidade inspira confiança e respeito.
 
 ---
+## Objetivos
+
+- **Preservar as tradições:** Velha Nâmia deseja preservar as tradições e os conhecimentos ancestrais da comunidade, garantindo que sejam passados para as futuras gerações.
+
+---
+## Justificativa
+
+- **Responsabilidade ancestral:** Como detentora de conhecimentos ancestrais, ela sente uma responsabilidade profunda em preservar e transmitir esse conhecimento.
+
+- **Amor pela comunidade:** Seu amor e dedicação à comunidade a motivam a cuidar de todos, assegurando um futuro próspero.
+
+---
 ## Aparência 
 
 - **Cabelos longos e brancos:** Velha Nâmia tem longos cabelos brancos, geralmente trançados ou presos em um coque.
