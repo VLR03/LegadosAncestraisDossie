@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4dfe6681d85561b1","type":"group","x":1760,"y":-1360,"width":3200,"height":1760,"color":"4","label":"Matinta Perera"},
+		{"id":"dbd59400e16fd492","type":"group","x":-3040,"y":-1360,"width":2600,"height":1760,"color":"#3b72f1","label":"Menina"},
+		{"id":"28700da31491b34d","type":"file","file":"Imagens/Menina - ideia 1.png","x":-2062,"y":-1240,"width":434,"height":434},
+		{"id":"6406982c555719a9","type":"file","file":"Imagens/Menina - Ideia 2.png","x":-2062,"y":-726,"width":434,"height":434},
+		{"id":"4c276bd6fa94e3b3","type":"file","file":"Imagens/Menina - ideia 4.png","x":-1520,"y":-1240,"width":434,"height":434},
+		{"id":"a4b641f16de51eaf","type":"file","file":"Imagens/Menina - ideia 5.png","x":-1520,"y":-726,"width":434,"height":434},
+		{"id":"edce6d3d226b8d98","type":"file","file":"Imagens/Menina - ideia 7.png","x":-980,"y":-1240,"width":434,"height":434},
+		{"id":"42ba20c9856a10e0","type":"file","file":"Personagens/Principais/Menina.md","x":-2920,"y":-1240,"width":760,"height":1474},
+		{"id":"18002099e07f5ee0","type":"file","file":"Personagens/Principais/Matinta Perera.md","x":1920,"y":-1240,"width":760,"height":1474},
+		{"id":"5eae03028ab128db","type":"file","file":"Imagens/Matinta - ideia 1.png","x":2800,"y":-1240,"width":917,"height":514},
+		{"id":"84e34aa50463f16c","type":"file","file":"Imagens/Menina - ideia 3.png","x":-2062,"y":-206,"width":440,"height":440},
+		{"id":"0ac4a88229d0a93a","type":"file","file":"Imagens/Menina - ideia 6.png","x":-1520,"y":-206,"width":440,"height":440}
+	],
+	"edges":[]
+}

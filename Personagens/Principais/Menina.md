@@ -93,7 +93,7 @@ sticker: lucide//user
 	- *Regata curta*
 	- *Corpo exagerado*
 
-![[Pasted image 20240709100315.png]]
+![[Menina - ideia 1.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -108,7 +108,7 @@ sticker: lucide//user
 	- *Regata curta*
 	- *Corpo exagerado*
 
-![[Pasted image 20240708103720.png]]
+![[Menina - Ideia 2.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -121,7 +121,7 @@ sticker: lucide//user
 - **Ressalvas:** 
 	- *Regata curta*
 
-![[Pasted image 20240709100607.png]]
+![[Menina - ideia 3.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -134,7 +134,7 @@ sticker: lucide//user
 	- *Acessórios*
 	- *Regata curta*
 
-![[Pasted image 20240708104035.png]]
+![[Menina - ideia 4.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -147,7 +147,7 @@ sticker: lucide//user
 	- *Corpo exagerado*
 	- *Cabelo*
 
-![[Pasted image 20240708104422.png]]
+![[Menina - ideia 5.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -162,7 +162,7 @@ sticker: lucide//user
 	- *Rosto*
 	- *Cabelo*
 
-![[Pasted image 20240709100829.png]]
+![[Menina - ideia 6.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -176,4 +176,4 @@ sticker: lucide//user
 	- *Corpo exagerado*
 	- *Cabelo exagerado*
 
-![[Pasted image 20240709115654.png]]
+![[Menina - ideia 7.png]]

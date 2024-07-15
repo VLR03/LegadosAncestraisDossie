@@ -73,6 +73,6 @@ sticker: lucide//user
 ---
 ## Referências
 
-![[Pasted image 20240715103253.png]]
+![[Matinta - ideia 1.png]]
 
 **--**                                                                                                                                                              **--**

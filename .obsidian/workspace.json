@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3373528cbd897c53",
+            "id": "56b3d470b9d1521c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Seu João.md",
+                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Seu João.md",
+                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Seu João.md",
+                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Seu João.md"
+                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md"
               }
             }
           }
@@ -155,32 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3373528cbd897c53",
+  "active": "56b3d470b9d1521c",
   "lastOpenFiles": [
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
     "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
+    "Personagens/Secundários/Comunidade/Catarina.md",
     "Personagens/Secundários/Comunidade/Seu João.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Personagens/Principais/Matinta Perera.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
+    "Quadro/Contexto geral.canvas",
     "Personagens/Principais/Menina.md",
-    "Imagens/Pasted image 20240715103253.png",
-    "Personagens/Secundários/Comunidade/Catarina.md",
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Imagens/Menina - ideia 7.png",
+    "Imagens/Matinta - ideia 1.png",
+    "Personagens/Principais/Matinta Perera.md",
+    "Imagens/Menina - ideia 6.png",
+    "Imagens/Menina - ideia 4.png",
+    "Imagens/Menina - ideia 5.png",
+    "Imagens/Menina - ideia 3.png",
+    "Imagens/Menina - ideia 1.png",
+    "Imagens/Menina - Ideia 2.png",
+    "Quadro/Quadro.md",
+    "Quadro",
+    "Personagens/Principais/Untitled.canvas",
     "Personagens/Secundários/Comunidade/Ladrão.md",
     "Personagens/Principais/Menino.md",
-    "Imagens/Pasted image 20240709115654.png",
-    "Imagens/Pasted image 20240709100829.png",
-    "Imagens/Pasted image 20240709100607.png",
-    "Imagens/Pasted image 20240709100315.png",
     "Estrutura/Etapa 2.md",
     "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
     "Imagens/Pasted image 20240708105145.png",
-    "Imagens/Pasted image 20240708103720.png",
-    "Imagens/Pasted image 20240708104035.png",
-    "Imagens/Pasted image 20240708104422.png",
     "Imagens",
     "Nova pasta",
     "Pasted image 20240708104422.png",
@@ -194,13 +198,11 @@
     "Personagens/Secundários/Floresta/Animais/Normais/Sucuri.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Onça-pintada.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Macaco-prego.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos",
     "Personagens/Secundários/Floresta/Animais/Purificados",
     "Personagens/Secundários/Floresta/Animais/Normais",
     "Personagens/Secundários/Floresta/Animais",
     "Personagens/Secundários/Floresta",
-    "Personagens/Secundários/Comunidade",
-    "Personagens/Secundários"
+    "Personagens/Secundários/Comunidade"
   ]
 }
