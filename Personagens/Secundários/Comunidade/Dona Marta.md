@@ -24,4 +24,12 @@ sticker: lucide//user
 ---
 ## Relações
 
+- **Menina:** Pedrinho admira a menina por toda a ajuda que ela presta dentro da comunidade e também gosta de ouvir suas histórias. Ele vê nela uma figura corajosa e inspiradora.
+
+- **Menino:** Ele é amigo do irmão mais novo da protagonista e frequentemente brinca com ele. Sua amizade é importante para ambos.
+
+- **Catarina:** Apesar de ser mais tímido com ela, Pedrinho gosta de brincar com Catarina.
+
+- **Dona Marta:** Ele vê Dona Marta como uma avó carinhosa e respeita muito sua sabedoria. Ele gosta de ouvir as histórias e lições que ela compartilha.
+
 ------
