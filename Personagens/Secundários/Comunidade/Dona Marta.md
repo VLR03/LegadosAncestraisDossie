@@ -17,7 +17,7 @@ sticker: lucide//user
 
 - **Cabelos grisalhos:** Dona Marta tem cabelos grisalhos, geralmente presos em um coque ou trançados.
 
-- **Trajes tradicionais:** Ela veste roupas tradicionais da comunidade, muitas vezes feitas à mão e decoradas com padrões e cores locais.
+- **Vestuário:** Ela veste roupas tradicionais da comunidade, muitas vezes feitas à mão e decoradas com padrões e cores locais.
 
 - **Acessórios:** Dona Marta usa vários acessórios simbólicos, como colares e pulseiras que representam sua história e a cultura da comunidade.
 

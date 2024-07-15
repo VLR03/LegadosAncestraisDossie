@@ -17,7 +17,7 @@ sticker: lucide//user
 
 - **Cabelo castanho e bagunçado:** Pedrinho tem cabelo castanho, frequentemente bagunçado de suas brincadeiras. Ele não se importa muito com a aparência e prefere estar confortável.
 
-- **Roupas simples:** Ele veste roupas simples e práticas. Basicamente uma regata comprida e uma bermuda cáqui.
+- **Vestuário:** Ele veste roupas simples e práticas. Basicamente uma regata comprida e uma bermuda cáqui.
 
 - **Pequenos acessórios:** Pedrinho pode carregar pequenos objetos que encontra durante suas explorações, como pedras ou penas, que ele guarda como tesouros pessoais.
 
