@@ -24,6 +24,4 @@ sticker: lucide//user
 ---
 ## Relações
 
-- **Irmã:** Ele tem uma relação de profundo amor e confiança com sua irmã. Ela é sua protetora e a pessoa em quem ele mais confia.
-
 ---

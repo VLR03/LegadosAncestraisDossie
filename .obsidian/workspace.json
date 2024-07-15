@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d02629a4b30c66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Principais/Menina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3373528cbd897c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Catarina.md",
+                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Catarina.md",
+                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Catarina.md",
+                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Catarina.md"
+                "file": "Personagens/Secundários/Comunidade/Dona Marta.md"
               }
             }
           }
@@ -170,9 +157,11 @@
   },
   "active": "3373528cbd897c53",
   "lastOpenFiles": [
-    "Personagens/Principais/Menino.md",
     "Personagens/Secundários/Comunidade/Catarina.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Personagens/Principais/Menina.md",
+    "Personagens/Secundários/Comunidade/Seu Pedro.md",
+    "Personagens/Principais/Menino.md",
     "Imagens/Pasted image 20240709115654.png",
     "Imagens/Pasted image 20240709100829.png",
     "Imagens/Pasted image 20240709100607.png",
@@ -192,10 +181,8 @@
     "Pasted image 20240708104035.png",
     "Personagens/Secundários/Comunidade/Véio doido.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Personagens/Secundários/Comunidade/Seu Pedro.md",
     "Personagens/Secundários/Comunidade/Seu João.md",
     "Personagens/Secundários/Comunidade/Pedrinho.md",
-    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Estrutura/Etapa 4.md",
     "Estrutura/Etapa 3.md",
     "Estrutura/Etapa 1.md",
