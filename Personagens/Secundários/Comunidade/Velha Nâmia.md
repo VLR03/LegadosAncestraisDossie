@@ -32,4 +32,6 @@ sticker: lucide//user
 
 - **Catarina e Pedrinho:** Ela cuida das crianças da comunidade, vendo nelas o futuro. Sua sabedoria e histórias capturam a imaginação de ambos, inspirando-os a seguir as tradições da comunidade.
 
+- **Outros membros da comunidade:** Ela é uma figura central na comunidade, respeitada e querida por todos. Sua opinião é valorizada e ela frequentemente resolve conflitos e oferece conselhos.
+
 ---

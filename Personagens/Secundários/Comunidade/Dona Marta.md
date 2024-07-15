@@ -24,12 +24,14 @@ sticker: lucide//user
 ---
 ## Relações
 
-- **Menina:** Pedrinho admira a menina por toda a ajuda que ela presta dentro da comunidade e também gosta de ouvir suas histórias. Ele vê nela uma figura corajosa e inspiradora.
+- **Menina:** Dona Marta tem um carinho especial pela protagonista, vendo nela um grande potencial e força. Ela a apoia e guia sempre que possível.
 
-- **Menino:** Ele é amigo do irmão mais novo da protagonista e frequentemente brinca com ele. Sua amizade é importante para ambos.
+- **Menino:** Ela tem uma relação protetora com o irmão mais novo da protagonista, cuidando dele como se fosse seu próprio neto.
 
-- **Catarina:** Apesar de ser mais tímido com ela, Pedrinho gosta de brincar com Catarina.
+- **Catarina:** Dona Marta vê Catarina como uma criança promissora e frequentemente a envolve em atividades que ensinam as tradições culturais da comunidade.
 
-- **Dona Marta:** Ele vê Dona Marta como uma avó carinhosa e respeita muito sua sabedoria. Ele gosta de ouvir as histórias e lições que ela compartilha.
+- **Velha Nâmia:** Velha Nâmia e Dona Marta compartilham um profundo respeito mútuo. Ambas trabalham juntas para preservar a comunidade e transmitir o conhecimento às gerações mais jovens.
 
-------
+- **Outros membros da comunidade:** Ela é uma figura central na comunidade, respeitada e querida por todos. Sua opinião é valorizada e ela frequentemente resolve conflitos e oferece conselhos.
+
+---
