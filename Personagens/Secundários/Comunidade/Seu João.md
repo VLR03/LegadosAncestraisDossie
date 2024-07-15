@@ -48,4 +48,6 @@ sticker: lucide//user
 
 - **Velha Nâmia:** Velha Nâmia vê Seu João como uma alma perdida e tenta, ocasionalmente, guiá-lo com sua sabedoria, mas ele raramente a escuta.
 
+- **Velho Doido:** Seu João ignora completamente o Velho Doido, considerando-o um incômodo e uma distração.
+
 ---

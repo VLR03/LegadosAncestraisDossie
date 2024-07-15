@@ -40,13 +40,15 @@ sticker: lucide//user
 
 - **Pedrinho:** Seu Pedro é um pai dedicado e amoroso, sempre cuidando de Pedrinho e garantindo seu bem-estar. Ele ensina Pedrinho valores importantes e habilidades práticas.
 
-- **Menina:** Ele respeita a dedicação da menina para com a comunidade
+-  **Menina:** Ele respeita a dedicação da menina para com a comunidade
 
 - **Seu João:** Há uma tensão significativa entre Seu João e Seu Pedro. Seu Pedro desaprova fortemente o comportamento de Seu João e tenta cuidar de Catarina como se fosse sua própria filha.
 
 - **Dona Marta:** Seu Pedro vê Dona Marta como uma figura de autoridade e sabedoria na comunidade. Ele frequentemente busca seus conselhos e valoriza sua opinião.
 
 - **Velha Nâmia:** Sendo sua avó, Seu Pedro tem um profundo respeito por Velha Nâmia e suas tradições. Seu Pedro acredita na importância de preservar o conhecimento tradicional e segue suas orientações.
+
+- **Velho Doido**: Seu Pedro é cético em relação ao Velho Doido e tenta ajudá-lo sempre que possível.
 
 - **Catarina:** Ele cuida de Catarina como se fosse sua própria filha. Ele vê nela um bom exemplo para seu filho.
 

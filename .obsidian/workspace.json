@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
+                "file": "Personagens/Secundários/Comunidade/Seu João.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
+                "file": "Personagens/Secundários/Comunidade/Seu João.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Dona Marta.md",
+                "file": "Personagens/Secundários/Comunidade/Seu João.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Dona Marta.md"
+                "file": "Personagens/Secundários/Comunidade/Seu João.md"
               }
             }
           }
@@ -157,14 +157,17 @@
   },
   "active": "3373528cbd897c53",
   "lastOpenFiles": [
+    "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
     "Personagens/Secundários/Comunidade/Seu João.md",
-    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Personagens/Secundários/Comunidade/Catarina.md",
-    "Personagens/Secundários/Comunidade/Véio doido.md",
+    "Personagens/Principais/Matinta Perera.md",
     "Personagens/Principais/Menina.md",
+    "Imagens/Pasted image 20240715103253.png",
+    "Personagens/Secundários/Comunidade/Catarina.md",
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Personagens/Secundários/Comunidade/Ladrão.md",
     "Personagens/Principais/Menino.md",
     "Imagens/Pasted image 20240709115654.png",
     "Imagens/Pasted image 20240709100829.png",
@@ -174,7 +177,6 @@
     "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
-    "Personagens/Principais/Matinta Perera.md",
     "Imagens/Pasted image 20240708105145.png",
     "Imagens/Pasted image 20240708103720.png",
     "Imagens/Pasted image 20240708104035.png",
@@ -182,11 +184,9 @@
     "Imagens",
     "Nova pasta",
     "Pasted image 20240708104422.png",
-    "Pasted image 20240708104035.png",
     "Estrutura/Etapa 4.md",
     "Estrutura/Etapa 3.md",
     "Estrutura/Etapa 1.md",
-    "Personagens/Secundários/Comunidade/Ladrão.md",
     "Tags",
     "Personagens/Secundários/Floresta/Animais/Normais/Veado.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Uacari-branco.md",

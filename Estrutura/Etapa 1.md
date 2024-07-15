@@ -47,7 +47,7 @@ sticker: lucide//flower
 [[Menino]]
 [[Menina]]
 [[Cuca]]
-[[Véio doido]]
+[[Velho doido (Barba Ruiva)]]
 ## Secundários
 [[Ladrão]]
 [[Dona Marta]]

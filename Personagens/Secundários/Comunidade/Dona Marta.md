@@ -50,6 +50,8 @@ sticker: lucide//user
 
 - **Seu João:** Dona Marta tem pouca paciência para Seu João e frequentemente tenta intervir para proteger Catarina das negligências do pai.
 
+- **Velho Doido:** Dona Marta tem uma mistura de desdém e preocupação pelo Velho Doido, tentando cuidar dele apesar de sua insistência em contar histórias absurdas que assustam as crianças.
+
 - **Outros membros da comunidade:** Ela é uma figura central na comunidade, respeitada e querida por todos. Sua opinião é valorizada e ela frequentemente resolve conflitos e oferece conselhos.
 
 ---

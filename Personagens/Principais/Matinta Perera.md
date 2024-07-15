@@ -71,3 +71,8 @@ sticker: lucide//user
 - **Fraquezas:** Matinta tem uma aversão à luz forte, que pode enfraquecer seus poderes. Sua natureza reclusa e desconfiada também pode ser usada contra ela, explorando seu isolamento e sua relutância em confiar nos outros.
 
 ---
+## Referências
+
+![[Pasted image 20240715103253.png]]
+
+**--**                                                                                                                                                              **--**
