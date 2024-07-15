@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c72dbc1835c0a927",
+        "id": "9ca0ef08772a1330",
         "type": "tabs",
         "children": [
           {
-            "id": "56b3d470b9d1521c",
+            "id": "512a9d3ea5eb9f36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,38 +135,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56b3d470b9d1521c",
+  "active": "512a9d3ea5eb9f36",
   "lastOpenFiles": [
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Imagens/Cuca/Cuca - referência 1.png",
+    "Imagens/Curupira/Curupira - referência 1.png",
+    "Quadro/Contexto geral.canvas",
+    "Imagens/Cuca/Cuca.md",
+    "Imagens/Cuca",
+    "Imagens/Cuca/Cuca - referência 5.png",
+    "Imagens/Cuca/Cuca - referência 10.png",
+    "Imagens/Cuca/Cuca - referência 9.png",
+    "Imagens/Cuca/Cuca - referência 8.png",
+    "Imagens/Cuca/Cuca - referência 7.png",
+    "Imagens/Cuca/Cuca - referência 4.png",
+    "Imagens/Cuca/Cuca - referência 3.png",
+    "Imagens/Cuca/Cuca - referência 6.png",
+    "Imagens/Cuca/Cuca - referência 2.png",
+    "Imagens/Imagens.md",
+    "Imagens/Curupira/Curupira.md",
+    "Imagens/Curupira",
+    "Imagens/Matinta/Matinta.md",
+    "Imagens/Matinta",
+    "Imagens/Menina/Menina.md",
+    "Imagens/Menina",
+    "Imagens/Sem título.md",
     "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
+    "Tags",
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
     "Personagens/Secundários/Comunidade/Catarina.md",
     "Personagens/Secundários/Comunidade/Seu João.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Personagens/Secundários/Comunidade/Dona Marta.md",
-    "Quadro/Contexto geral.canvas",
     "Personagens/Principais/Menina.md",
-    "Imagens/Menina - ideia 7.png",
-    "Imagens/Matinta - ideia 1.png",
     "Personagens/Principais/Matinta Perera.md",
-    "Imagens/Menina - ideia 6.png",
-    "Imagens/Menina - ideia 4.png",
-    "Imagens/Menina - ideia 5.png",
-    "Imagens/Menina - ideia 3.png",
-    "Imagens/Menina - ideia 1.png",
-    "Imagens/Menina - Ideia 2.png",
     "Quadro/Quadro.md",
     "Quadro",
     "Personagens/Principais/Untitled.canvas",
@@ -184,25 +191,12 @@
     "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
-    "Imagens/Pasted image 20240708105145.png",
     "Imagens",
     "Nova pasta",
-    "Pasted image 20240708104422.png",
     "Estrutura/Etapa 4.md",
     "Estrutura/Etapa 3.md",
     "Estrutura/Etapa 1.md",
-    "Tags",
-    "Personagens/Secundários/Floresta/Animais/Normais/Veado.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Uacari-branco.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Tatu.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Sucuri.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Sagui-imperador.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Onça-pintada.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos",
-    "Personagens/Secundários/Floresta/Animais/Purificados",
-    "Personagens/Secundários/Floresta/Animais/Normais",
-    "Personagens/Secundários/Floresta/Animais",
-    "Personagens/Secundários/Floresta",
-    "Personagens/Secundários/Comunidade"
+    "Personagens/Secundários/Floresta/Animais/Purificados"
   ]
 }

@@ -93,7 +93,7 @@ sticker: lucide//user
 	- *Regata curta*
 	- *Corpo exagerado*
 
-![[Menina - ideia 1.png]]
+![[Menina - referência 1.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -108,7 +108,7 @@ sticker: lucide//user
 	- *Regata curta*
 	- *Corpo exagerado*
 
-![[Menina - Ideia 2.png]]
+![[Menina - referência 2.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -121,7 +121,7 @@ sticker: lucide//user
 - **Ressalvas:** 
 	- *Regata curta*
 
-![[Menina - ideia 3.png]]
+![[Menina - referência 3.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -134,7 +134,7 @@ sticker: lucide//user
 	- *Acessórios*
 	- *Regata curta*
 
-![[Menina - ideia 4.png]]
+![[Menina - referência 4.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -147,7 +147,7 @@ sticker: lucide//user
 	- *Corpo exagerado*
 	- *Cabelo*
 
-![[Menina - ideia 5.png]]
+![[Menina - referência 5.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -162,7 +162,7 @@ sticker: lucide//user
 	- *Rosto*
 	- *Cabelo*
 
-![[Menina - ideia 6.png]]
+![[Menina - referência 6.png]]
 
 **--**                                                                                                                                                              **--**
 
@@ -176,4 +176,4 @@ sticker: lucide//user
 	- *Corpo exagerado*
 	- *Cabelo exagerado*
 
-![[Menina - ideia 7.png]]
+![[Menina - referência 7.png]]
