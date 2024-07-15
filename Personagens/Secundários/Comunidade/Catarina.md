@@ -24,4 +24,14 @@ sticker: lucide//user
 ---
 ## Relações
 
+- **Menina:** Catarina admira a menina e vê nela uma figura inspiradora. Ela gosta de ouvir as histórias da menina e se inspira em seu caráter e personalidade, almejando ser como ela no futuro.
+
+- **Menino:** Ela é amiga do menino e frequentemente brinca com ele.
+
+- **Dona Marta:** Catarina vê Dona Marta como uma figura de referência e procura sempre aprender ao máximo com ela.
+
+- **Velha Nâmia:** Ela respeita muito todo o conhecimento que a Velha Nâmia possui.
+
+- **Outras crianças:** Catarina tem boas relações com as outras crianças da comunidade, frequentemente liderando brincadeiras e atividades.
+
 ---
