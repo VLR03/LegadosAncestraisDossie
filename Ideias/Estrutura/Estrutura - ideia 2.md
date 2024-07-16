@@ -1,10 +1,10 @@
 ---
-sticker: lucide//flower
+sticker: lucide//lightbulb
 ---
 ---
 # Conexões
 
-- [[Etapa 3]]
+- [[Estrutura - ideia 3]]
 
 ---
 # Objetivo

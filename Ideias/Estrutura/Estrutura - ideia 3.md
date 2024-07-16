@@ -1,6 +1,11 @@
 ---
-sticker: lucide//flower
+sticker: lucide//lightbulb
 ---
+---
+# Conexões
+
+[[Estrutura - ideia 4]]
+
 ---
 # Objetivo
 

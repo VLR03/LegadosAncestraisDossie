@@ -1,11 +1,6 @@
 ---
-sticker: lucide//flower
+sticker: lucide//lightbulb
 ---
----
-# Conexões
-
-[[Etapa 4]]
-
 ---
 # Objetivo
 
