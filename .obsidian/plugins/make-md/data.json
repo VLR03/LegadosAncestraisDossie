@@ -46,7 +46,10 @@
     "//Personagens/Personagens/Principais",
     "//Personagens/Personagens/Secundários",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
-    "//Quadro"
+    "//Quadro",
+    "//Imagens",
+    "//Imagens/Imagens/Menina",
+    "//Estrutura"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

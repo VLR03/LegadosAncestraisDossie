@@ -45,8 +45,8 @@ sticker: lucide//flower
 
 ## Principais 
 [[Menino]]
-[[Menina]]
-[[Cuca]]
+[[Personagens/Principais/Menina|Menina]]
+[[Personagens/Principais/Cuca|Cuca]]
 [[Velho doido (Barba Ruiva)]]
 ## Secundários
 [[Ladrão]]

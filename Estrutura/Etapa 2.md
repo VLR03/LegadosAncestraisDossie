@@ -41,10 +41,10 @@ sticker: lucide//flower
 # Personagens
 
 ## Principais 
-[[Menina]]
+[[Personagens/Principais/Menina|Menina]]
 [[Saci Pererê]]
 ## Secundários
-[[Cuca]]
+[[Personagens/Principais/Cuca|Cuca]]
 [[Anta corrompida]]
 
 ---

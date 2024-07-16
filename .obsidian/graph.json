@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Personagens  ",
-      "color": {
-        "a": 1,
-        "rgb": 14902471
-      }
-    },
-    {
       "query": "path:Estrutura  ",
       "color": {
         "a": 1,
         "rgb": 8343003
+      }
+    },
+    {
+      "query": "path:Personagens  ",
+      "color": {
+        "a": 1,
+        "rgb": 12804273
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 6.5625,
   "linkStrength": 1,
   "linkDistance": 196,
-  "scale": 1.0000000000000102,
+  "scale": 0.7132754626224501,
   "close": true
 }
