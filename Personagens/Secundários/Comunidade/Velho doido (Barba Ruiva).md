@@ -40,7 +40,7 @@ sticker: lucide//user
 ---
 ## Relações
 
-- **Menina:** Pensando a respeito.
+- **Menina:** A Menina simpatiza muito com o Velho Doido, apesar de não acreditar em nada do que ele diz, ela puxa papo só para que ele se sinta melhor.
 
 - **Menino:** O menino sente uma curiosidade natural pelo Velho Doido, ouvindo suas histórias com fascinação e ceticismo.
 
@@ -50,4 +50,13 @@ sticker: lucide//user
 
 - **Seu João:** Seu João ignora completamente o Velho Doido, considerando-o um incômodo e uma distração.
 
+- **Iara:** Mesmo tendo perdido sua memória, ele sente uma conexão profunda com sua mãe, Iara. Este vínculo familiar é uma força que a ajuda a manter fragmentos de sua memória.
+
 ---
+## Outros
+
+### Narrativa
+
+Ele é uma incógnita dentro da comunidade. Um dia ele só apareceu do nada, extremamente machucado. Visto que seus ferimentos eram graves, Velha Nâmia cuidou dele e o ofereceu abrigo. A partir de então a comunidade se tornou a sua casa. Ele é conhecido como velho doido por causa de suas falas sobre a floresta e as entidades que vivem lá, sobre cada uma delas, como elas estão irritadas, corrompidas. Ele basicamente sabe tudo o que está acontecendo dentro da floresta, tudo o que a Cuca está fazendo e assim por diante. Ele tenta alertar os moradores mas ninguém acredita nele, afinal de contas ele é o Velho Doido. Acho que seria muito interessante se um dos plots do jogo fosse que ele na verdade é uma lenda também. Mais especificamente, a lenda do barba ruiva que segundo a história, é filho da lenda Iara. 
+
+Iara tentou proteger seu filho mas não conseguiu resistir a corrupção da Cuca. Em um momento de sadismo, a ordem da Cuca foi para que Iara matasse seu filho. Seja por algum fragmento de pureza que ainda existia naquele momento, Iara não chegou a matá-lo e Barba Ruiva conseguiu fugir porém extremamente machucado. Barba Ruiva corria pela floresta, forçando seu corpo ferido. Todo o esforço para apenas seguir em frente fez com que seu corpo fosse envelhecendo extremamente rápido. Ao alcançar uma comunidade pacata, seu corpo não resistiu mais e ele caiu no chão. Seus cabelos tinham apenas um resquício de vermelho em meio ao branco alvo e sua pele machucada estava completamente enrugada e velha.
