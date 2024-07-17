@@ -42,7 +42,9 @@
   "expandedSpaces": [
     "//1 - Personagens",
     "/",
-    "//Estrutura"
+    "//Estrutura",
+    "//Ideias",
+    "//Ideias/Ideias/Estrutura"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
