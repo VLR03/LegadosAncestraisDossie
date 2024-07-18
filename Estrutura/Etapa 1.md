@@ -66,18 +66,30 @@ sticker: lucide//flower
 	- **Nâmia:** "Procure pelas folhas verdes e brilhantes. Ah... tome cuidado com as vermelhas, elas tem espinhos."
 
 2. **Casa da Dona Marta:** 
-	- **Dona Marta:** "Ah, vocês trouxeram as ervas! Maravilhoso. Muito obrigada, crianças!"
-	- **Dona Marta:** "Fiquem aí que vou já precisar de vocês."
+	- **Marta:** "Ah, vocês trouxeram as ervas! Maravilhoso. Muito obrigada, crianças!"
+	- **Marta:** "Fiquem aí que vou já precisar de vocês."
 	- **Menino:** "Tem ensopado hoje, Dona Marta?"
-	- **Dona Marta:** "Se os meninos trouxerem os peixes que eu pedi..."
+	- **Marta:** "Se os meninos trouxerem os peixes que eu pedi..."
 	- **Menina:** "Com batatinha?!"
-	- **Dona Marta:** "Claro, querida."
-	- **Dona Marta:** "E... prontinho."
-	- **Dona Marta:** "O remédio tá pronto. Agora vocês amores, podem fazer o favor de levar isso pro Seu Pedro?"
+	- **Marta:** "Claro, querida."
+	- **Marta:** "E... prontinho."
+	- **Marta:** "O remédio tá pronto. Agora vocês amores, podem fazer o favor de levar isso pro Seu Pedro?"
 	- **Menina:** "Claro, Dona Marta!"
-	- **Menino:** "E vamo garantir que eles tragam o peixe que a senhora pediu!!
+	- **Menino:** "E vamo garantir que eles tragam o peixe que a senhora pediu!!"
 
 3. **Barracão de pesca:**
+	- **Pedro:** "Obrigado pelo remédio, crianças. Minha costa tá me matando."
+	- **Menina:** "Seu Pedro, não acha que seria uma boa pedir pra Dona Nâmia dar uma olhada nisso?"
+	- **Menino:** "Tipo... pessoalmente?"
+	- **Pedro:** "Que nada, *Nome da menina*. A Velha Nâmia tem coisas mais importantes pra se preocupar."
+	- **Menino:** "Seu Pedro! Seu Pedro!"
+	- **Menino:** "Vai pegar os peixes que a Dona Marta pediu? Ela precisa deles pro ensopado."
+	- **Pedro:** "Humm se é pro famoso ensopado da Marta eu vou garantir que a gente pesque eles, *Nome do menino*."
+	- **Menino:** "Ebaaa!"
+	- **Pedro:** "Agora licença, crianças. Precisamos ir agora."
+	- **Menina:** "Claro, Seu Pedro. Até mais tarde!"
+
+4. **Mercadinho:** 
 	- 
 
 ---

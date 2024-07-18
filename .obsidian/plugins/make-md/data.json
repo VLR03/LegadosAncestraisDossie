@@ -42,9 +42,17 @@
   "expandedSpaces": [
     "//1 - Personagens",
     "/",
-    "//Estrutura",
+    "//Quadro",
     "//Ideias",
-    "//Ideias/Ideias/Estrutura"
+    "//Personagens",
+    "//Personagens/Personagens/Principais",
+    "//Ideias/Ideias/Estrutura",
+    "//Estrutura",
+    "//Personagens/Personagens/Secundários",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Normais"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
