@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
+                "file": "Estrutura/Etapa 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
+                "file": "Estrutura/Etapa 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
+                "file": "Estrutura/Etapa 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Secundários/Floresta/Animais/Normais/Boto.md"
+                "file": "Estrutura/Etapa 1.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "3d381c783d3c1a4e",
   "lastOpenFiles": [
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
     "Estrutura/Etapa 1.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
+    "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
     "Ideias/Estrutura/Estrutura - ideia 1.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
@@ -185,7 +187,6 @@
     "Ideias/Estrutura/Estrutura - ideia 3.md",
     "Ideias/Estrutura/Estrutura.md",
     "Ideias/Estrutura",
-    "Imagens/Cuca/Cuca.md",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
     "Imagens/Cuca",

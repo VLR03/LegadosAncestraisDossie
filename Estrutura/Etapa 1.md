@@ -90,6 +90,14 @@ sticker: lucide//flower
 	- **Menina:** "Claro, Seu Pedro. Até mais tarde!"
 
 4. **Mercadinho:** 
-	- 
+	- **Mercador:** CRIANÇAS, CRIANÇAS!!
+	- **Mercador:** ME AJUDEM AQUI!
+	- **Menina:** O que houve?
+	- **Mercador:** Esses guaxinins estão me infernizando!
+	- **Mercador:** Eles ficam roubando minhas mercadorias!
+	- **Mercador:** Preciso que vocês espantem eles pra mim. Se continuar assim eu vou perder tudo!
+	- **Menina:** *Nome do menino*, espera aqui!
+	- **Menino:** Mana, não machuca eles.
+	- **Menina:** Não se preocupa, só vou espantá-los!
 
 ---
