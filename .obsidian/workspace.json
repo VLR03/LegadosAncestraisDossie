@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3692ddd1a8b6439f",
+        "id": "9ca0ef08772a1330",
         "type": "tabs",
         "children": [
           {
-            "id": "3d381c783d3c1a4e",
+            "id": "512a9d3ea5eb9f36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Quadro/Contexto geral.canvas",
+                "viewState": {
+                  "x": -43.44352060609617,
+                  "y": 6863.148174467585,
+                  "zoom": -4
+                }
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
+                "file": "Quadro/Contexto geral.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
+                "file": "Quadro/Contexto geral.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrutura/Etapa 1.md"
+                "file": "Quadro/Contexto geral.canvas"
               }
             }
           }
@@ -143,63 +146,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d381c783d3c1a4e",
+  "active": "512a9d3ea5eb9f36",
   "lastOpenFiles": [
-    "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
-    "Estrutura/Etapa 1.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
-    "Ideias/Estrutura/Estrutura - ideia 1.md",
-    "Personagens/Principais/Curupira.md",
-    "Personagens/Principais/Saci Pererê.md",
-    "Personagens/Principais/Matinta Perera.md",
-    "Personagens/Principais/Iara.md",
-    "Personagens/Principais/Menina.md",
+    "Imagens/EstruturaDeMapas.drawio.svg",
     "Quadro/Contexto geral.canvas",
-    "Imagens/Matinta/Matinta - referência 12.png",
-    "Imagens/Matinta/Matinta - referência 2.png",
-    "Ideias/Estrutura/Estrutura - ideia 2.md",
+    "Imagens/EstruturaDeMapas.svg",
+    "Imagens/EstruturaDeMapas 1.jpg",
+    "Imagens/EstruturaDeMapas.jpg",
+    "Imagens/EstruturaDeMapas.drawio.png",
+    "Imagens/Pasted image 20240721130308.png",
+    "Imagens/Pasted image 20240721130215.png",
+    "Imagens/Pasted image 20240721130121.png",
+    "Estrutura/Etapa 1.md",
+    "Ideias/Estrutura/Estrutura - ideia 1.md",
+    "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Untitled 1.md",
-    "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
-    "Personagens/Secundários/Comunidade/Catarina.md",
-    "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
-    "Personagens/Secundários/Comunidade/Seu João.md",
-    "Personagens/Secundários/Comunidade/Ladrão.md",
-    "Personagens/Secundários/Comunidade/Dona Marta.md",
-    "Personagens/Principais/Cuca.md",
     "Ideias/Estrutura/Estrutura - ideia 4.md",
     "Ideias/Estrutura/Estrutura - ideia 3.md",
     "Ideias/Estrutura/Estrutura.md",
     "Ideias/Estrutura",
+    "Ideias/Estrutura/Estrutura - ideia 2.md",
+    "Personagens/Principais/Iara.md",
+    "Imagens/Cuca/Cuca.md",
+    "Personagens/Principais/Menina.md",
+    "Imagens/Menina/Menina.md",
+    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
+    "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
+    "Personagens/Principais/Curupira.md",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
     "Imagens/Cuca",
-    "Imagens/Cuca/Cuca - referência 5.png",
-    "Imagens/Cuca/Cuca - referência 10.png",
-    "Imagens/Cuca/Cuca - referência 9.png",
-    "Imagens/Cuca/Cuca - referência 8.png",
-    "Imagens/Cuca/Cuca - referência 7.png",
-    "Imagens/Cuca/Cuca - referência 4.png",
+    "Imagens/Imagens.md",
+    "Imagens/Curupira/Curupira.md",
     "Imagens/Curupira",
+    "Imagens/Matinta/Matinta.md",
     "Imagens/Matinta",
     "Imagens/Menina",
+    "Imagens/Sem título.md",
     "Tags",
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Personagens/Secundários/Comunidade/Catarina.md",
+    "Personagens/Secundários/Comunidade/Seu João.md",
+    "Personagens/Secundários/Comunidade/Seu Pedro.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Quadro",
     "Personagens/Principais/Untitled.canvas",
     "Imagens",
