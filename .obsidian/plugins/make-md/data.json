@@ -42,9 +42,15 @@
   "expandedSpaces": [
     "//1 - Personagens",
     "/",
-    "//Estrutura",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Normais",
+    "//Ideias/Ideias/Estrutura",
+    "//Ideias/Ideias/Dialogo",
     "//Quadro",
-    "//Imagens"
+    "//Código",
+    "//Código/Código/Mudança de Cena"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
