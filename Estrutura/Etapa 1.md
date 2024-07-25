@@ -100,6 +100,16 @@ sticker: lucide//flower
 	- **[[Menino]]:** Mana, não machuca eles.
 	- **[[Personagens/Principais/Menina|Menina]]:** Não se preocupa, só vou espantá-los!
 
+5. **Frente da casa do [[Seu João]]:**
+	- **[[Pedrinho]]:** "[[Personagens/Principais/Menina|Menina]], [[Personagens/Principais/Menina|Menina]]!!"
+	- **[[Personagens/Principais/Menina|Menina]]:** "O que foi, [[Pedrinho]]? Aconteceu alguma coisa?"
+	- **[[Pedrinho]]:** "O pai da [[Eloá]] pegou a minha bola e não quer devolver. * chorando * "
+	- **[[Menino]]:** "De novo?"
+	- **[[Pedrinho]]:** "Sim, mas dessa vez ele disse que não vai devolver!"
+	- **[[Pedrinho]]:** "Por favor, eu preciso da ajuda de vocês..."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Calma, [[Pedrinho]]. Eu vou pegar a sua bola de volta."
+	- **[[Personagens/Principais/Menina|Menina]]:** "[[Menino]], fica aqui com o [[Pedrinho]]."
+
 6. **Celebração na praça central:**
 	- **[[Velha Nâmia]]:** "Estamos aqui reunidos para celebrar mais um dia de nossas vidas."
 	- **[[Velha Nâmia]]:** "Em comunhão com a floresta que nos rodeia, temos saúde, alimento, família e amor."
@@ -120,5 +130,20 @@ sticker: lucide//flower
 	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Papai foi na roça e mamãe foi trabalhar..."
 	- **[[Menino]]:** (Sonolento) "Mana?"
 	- **[[Menino]]:** * Grito *
+
+---
+## Cutscenes
+
+1. **Celebração na praça central:**
+	- **Cenário:** Os moradores se reúnem na praça central para celebrar um dia de paz e união. Todos estão alegres, e há música e dança.
+	- **Evento principal:** Discussão entre o [[Menino]] e a [[Personagens/Principais/Menina|Menina]].
+
+2. **Sequestro na casa dos irmãos:**
+	- **Cenário:** O [[Menino]] está dormindo em sua cama, a lua cheia ilumina suavemente o quarto.
+	- **Evento principal:** A [[Personagens/Principais/Cuca|Cuca]] se aproxima, com suas garras afiadas e olhos brilhantes. Ela levanta o menino de sua cama com uma facilidade assustadora e desaparece na noite.
+
+3. **Perseguição:**
+	- **Cenário:** De dentro da casa dos irmãos até a floresta.
+	- **Evento principal:** Após escutar o grito a [[Personagens/Principais/Menina|Menina]] sai correndo para sua casa e entra uma sombra atravessando sua janela e correndo em direção a floresta. A [[Personagens/Principais/Menina|Menina]] persegue até que acaba caindo e desmaiando no meio da floresta.
 
 ---
