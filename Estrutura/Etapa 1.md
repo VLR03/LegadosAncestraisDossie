@@ -100,4 +100,25 @@ sticker: lucide//flower
 	- **[[Menino]]:** Mana, não machuca eles.
 	- **[[Personagens/Principais/Menina|Menina]]:** Não se preocupa, só vou espantá-los!
 
+6. **Celebração na praça central:**
+	- **[[Velha Nâmia]]:** "Estamos aqui reunidos para celebrar mais um dia de nossas vidas."
+	- **[[Velha Nâmia]]:** "Em comunhão com a floresta que nos rodeia, temos saúde, alimento, família e amor."
+	- **[[Velha Nâmia]]:** "Nada vale mais do que isso."
+	- **[[Menino]]:** "Por quê a gente tem que fazer isso toda noite?"
+	- **[[Personagens/Principais/Menina|Menina]]:** "Pra agradecer por mais um dia de nossas vidas, você sabe disso."
+	- **[[Menino]]:** "Eu sei, eu sei, mas é tão chato."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Não diga isso! Tenha respeito pela [[Velha Nâmia]]."
+	- **[[Personagens/Principais/Menina|Menina]]:** "E principalmente respeito pela floresta!"
+	- **[[Menino]]:** "Não fala assim comigo, só disse que é chato!"
+	- **[[Personagens/Principais/Menina|Menina]]:** "Já chega, [[Menino]]"!
+	- **[[Menino]]:** "Ah cansei, eu vou pra casa."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Então vai! Ninguém precisa de você aqui se for só pra reclamar!"
+
+7. **Sequestro na casa dos irmãos:**
+	- **[[Menino]]:** * Dormindo *
+	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Nana neném, que a Cuca vem pegar..."
+	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Papai foi na roça e mamãe foi trabalhar..."
+	- **[[Menino]]:** (Sonolento) "Mana?"
+	- **[[Menino]]:** * Grito *
+
 ---
