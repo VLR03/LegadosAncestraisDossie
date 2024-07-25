@@ -44,7 +44,8 @@
     "/",
     "//Personagens",
     "//Personagens/Personagens/Principais",
-    "//Estrutura"
+    "//Estrutura",
+    "//Quadro"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
