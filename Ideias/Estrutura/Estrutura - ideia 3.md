@@ -2,11 +2,6 @@
 sticker: lucide//lightbulb
 ---
 ---
-# Conexões
-
-[[Estrutura - ideia 4]]
-
----
 # Objetivo
 
 O jogo começa na vila onde os irmãos moram. Os dois vão estar conversando sobre precisar sair para realizar algumas tarefas.

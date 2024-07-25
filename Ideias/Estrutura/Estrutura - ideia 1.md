@@ -2,11 +2,6 @@
 sticker: lucide//lightbulb
 ---
 ---
-# Conexões
-
-[[Estrutura - ideia 2]]
-
----
 # Objetivo
 
 1. O jogo começa na vila onde os irmãos moram. Os dois vão estar conversando sobre precisar sair para realizar algumas tarefas.
@@ -39,22 +34,5 @@ sticker: lucide//lightbulb
 	- Quebrar caixas
 	- Brincar de esconde-esconde
 	- Realizar entregas
-
----
-# Personagens
-
-## Principais 
-[[Menino]]
-[[Personagens/Principais/Menina|Menina]]
-[[Personagens/Principais/Cuca|Cuca]]
-[[Velho doido (Barba Ruiva)]]
-## Secundários
-[[Ladrão]]
-[[Dona Marta]]
-[[Seu João]]
-[[Pedrinho]]
-[[Catarina]]
-[[Seu Pedro]]
-[[Velha Nâmia]]
 
 ---

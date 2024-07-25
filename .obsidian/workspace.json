@@ -11,15 +11,8 @@
             "id": "512a9d3ea5eb9f36",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Quadro/Contexto geral.canvas",
-                "viewState": {
-                  "x": 6293.740968030116,
-                  "y": 5944.430757762629,
-                  "zoom": -4
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagens/EstruturaDeMapas.drawio.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagens/EstruturaDeMapas.drawio.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Imagens/EstruturaDeMapas.drawio.svg"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,8 +150,28 @@
   },
   "active": "512a9d3ea5eb9f36",
   "lastOpenFiles": [
-    "Imagens/EstruturaDeMapas.drawio.svg",
+    "Ideias/Estrutura/Estrutura - ideia 2.md",
+    "Ideias/Estrutura/Estrutura - ideia 4.md",
+    "Ideias/Estrutura/Estrutura - ideia 3.md",
+    "Ideias/Estrutura/Estrutura - ideia 1.md",
+    "Estrutura/Etapa 1.md",
+    "Personagens/Principais/Cuca.md",
+    "Personagens/Principais/Curupira.md",
+    "Personagens/Principais/Saci Pererê.md",
+    "Personagens/Principais/Matinta Perera.md",
+    "Personagens/Principais/Iara.md",
+    "Personagens/Principais/Menina.md",
+    "Personagens/Principais/Menino.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
+    "Personagens/Secundários/Comunidade/Ladrão.md",
+    "Personagens/Secundários/Comunidade/Seu João.md",
+    "Personagens/Secundários/Comunidade/Eloá.md",
+    "Personagens/Secundários/Comunidade/Pedrinho.md",
+    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
+    "Personagens/Secundários/Comunidade/Seu Pedro.md",
+    "Personagens/Secundários/Comunidade/Velho doido.md",
     "Quadro/Contexto geral.canvas",
+    "Imagens/EstruturaDeMapas.drawio.svg",
     "Imagens/EstruturaDeMapas.svg",
     "Imagens/EstruturaDeMapas 1.jpg",
     "Imagens/EstruturaDeMapas.jpg",
@@ -170,39 +179,20 @@
     "Imagens/Pasted image 20240721130308.png",
     "Imagens/Pasted image 20240721130215.png",
     "Imagens/Pasted image 20240721130121.png",
-    "Estrutura/Etapa 1.md",
-    "Ideias/Estrutura/Estrutura - ideia 1.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
-    "Ideias/Estrutura/Estrutura - ideia 4.md",
-    "Ideias/Estrutura/Estrutura - ideia 3.md",
     "Ideias/Estrutura/Estrutura.md",
     "Ideias/Estrutura",
-    "Ideias/Estrutura/Estrutura - ideia 2.md",
-    "Personagens/Principais/Iara.md",
     "Imagens/Cuca/Cuca.md",
-    "Personagens/Principais/Menina.md",
     "Imagens/Menina/Menina.md",
-    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
-    "Personagens/Principais/Curupira.md",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
     "Imagens/Cuca",
-    "Imagens/Imagens.md",
-    "Imagens/Curupira/Curupira.md",
     "Imagens/Curupira",
-    "Imagens/Matinta/Matinta.md",
     "Imagens/Matinta",
     "Imagens/Menina",
-    "Imagens/Sem título.md",
     "Tags",
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
-    "Personagens/Secundários/Comunidade/Catarina.md",
-    "Personagens/Secundários/Comunidade/Seu João.md",
-    "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Quadro",
     "Personagens/Principais/Untitled.canvas",
     "Imagens",
