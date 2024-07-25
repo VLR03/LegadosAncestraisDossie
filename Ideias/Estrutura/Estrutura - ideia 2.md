@@ -2,11 +2,6 @@
 sticker: lucide//lightbulb
 ---
 ---
-# Conexões
-
-- [[Estrutura - ideia 3]]
-
----
 # Objetivo
 
 1. Após a personagem acordar ela caminhará pela floresta com o clima bastante tenso, passando por alguns dos cenários sem nenhum animal, inimigo, nada, somente ela e o vento. 
@@ -36,15 +31,5 @@ sticker: lucide//lightbulb
 - Diálogo com o Saci
 - Interações próprias
 - Interações com o ambiente
-
----
-# Personagens
-
-## Principais 
-[[Personagens/Principais/Menina|Menina]]
-[[Saci Pererê]]
-## Secundários
-[[Personagens/Principais/Cuca|Cuca]]
-[[Anta corrompida]]
 
 ---
