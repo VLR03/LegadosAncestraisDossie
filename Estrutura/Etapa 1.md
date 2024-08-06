@@ -33,7 +33,7 @@ sticker: lucide//flower
 - **[[Pedrinho]]:** Brincando com [[Eloá]] perto de sua casa.
 
 ---
-## Missões
+## Acontecimentos importantes
 
 1. **[[Velha Nâmia]]:**
 	- **Missão:** Ajudar a [[Velha Nâmia]] a colher ervas medicinais.
@@ -110,7 +110,17 @@ sticker: lucide//flower
 	- **[[Personagens/Principais/Menina|Menina]]:** "Calma, [[Pedrinho]]. Eu vou pegar a sua bola de volta."
 	- **[[Personagens/Principais/Menina|Menina]]:** "[[Menino]], fica aqui com o [[Pedrinho]]."
 
-6. **Celebração na praça central:**
+6. **[[Velho doido]] encarando o rio:** 
+	- **[[Personagens/Principais/Menina|Menina]]:** "Opa Velhão. Como o senhor tá?"
+	- **[[Velho doido]]:** (Olhos arregalados) "O rio, [[Personagens/Principais/Menina|Menina]]."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Iiiihhh.. lá vem. O que tem o rio?"
+	- **[[Velho doido]]:** "Está chorando... você ouve, [[Personagens/Principais/Menina|Menina]]?"
+	- **[[Personagens/Principais/Menina|Menina]]:** "Sinceramente? Só escuto o barulho do rio. Mesmo barulho de sempre."
+	- **[[Velho doido]]:** "A água guarda segredos... e os conta praqueles que merecem ouvir... que desejam ouvir."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Desculpa, Velhão. É difícil de acreditar quando você fala essas coisas."
+	- **[[Velho doido]]:** "Acreditando ou não, o perigo é real. Eles vêm... eles vêm por nós... vem por nós... vem por todos nós."
+
+8. **Celebração na praça central:**
 	- **[[Velha Nâmia]]:** "Estamos aqui reunidos para celebrar mais um dia de nossas vidas."
 	- **[[Velha Nâmia]]:** "Em comunhão com a floresta que nos rodeia, temos saúde, alimento, família e amor."
 	- **[[Velha Nâmia]]:** "Nada vale mais do que isso."
@@ -124,7 +134,22 @@ sticker: lucide//flower
 	- **[[Menino]]:** "Ah cansei, eu vou pra casa."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Então vai! Ninguém precisa de você aqui se for só pra reclamar!"
 
-7. **Sequestro na casa dos irmãos:**
+9. **Discussão do [[Seu Pedro]] com o [[Seu João]] durante a celebração (opcional):**
+	- **[[Seu Pedro]]:** "João, precisamos ter uma conversa."
+	- **[[Seu João]]:** (desinteressado) "O que foi agora, Pedro?"
+	- **[[Seu Pedro]]:** "Que história é essa de você ter roubado a bola do meu filho?"
+	- **[[Seu João]]:** "Eles estavam brincando perto da minha casa! Coisa que eu já disse pra eles não fazerem!"
+	- **[[Seu João]]:** "Aquele seu filho tem que crescer se a primeira coisa que ele fez foi sair correndo pra contar pro papai!"
+	- **[[Seu Pedro]]:** "Primeiro, ele é só uma criança."
+	- **[[Seu Pedro]]:** "Segundo, não foi ele quem me contou. Foi a sua filha. Ela tá preocupada contigo."
+	- **[[Seu João]]:** "Assim como ela, você tem que cuidar da própria vida, João. Por quê não sai da minha frente?"
+	- **[[Seu Pedro]]:** "Você não dá a mínima pra ela, né? Ela é só uma criança!"
+	- **[[Seu João]]:** "Ela sabe se virar, diferente do seu moleque que a cada dois passos corre apavorado. Além disso, você não é pai dela, Pedro."
+	- **[[Seu Pedro]]:** "Talvez não de sangue, mas me importo com ela tanto quanto me importo com o Pedrinho. Me importo com toda a comunidade. Todos temos nossas responsabilidades."
+	- **[[Seu João]]:** "Responsabilidades?! Ah claro, você é o menino de ouro né?"
+	- **[[Seu João]]:** "Pedro, faz um favor pra nós dois. Só... me deixa em paz. Não preciso de lição de moral."
+
+10. **Sequestro na casa dos irmãos:**
 	- **[[Menino]]:** * Dormindo *
 	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Nana neném, que a Cuca vem pegar..."
 	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Papai foi na roça e mamãe foi trabalhar..."

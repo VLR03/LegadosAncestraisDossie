@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
+                "file": "Estrutura/Etapa 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
+                "file": "Estrutura/Etapa 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrutura/Etapa 1.md",
+                "file": "Estrutura/Etapa 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrutura/Etapa 1.md"
+                "file": "Estrutura/Etapa 2.md"
               }
             }
           }
@@ -158,8 +158,12 @@
   },
   "active": "3d381c783d3c1a4e",
   "lastOpenFiles": [
-    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
+    "Personagens/Principais/Menina.md",
+    "Estrutura/Etapa 2.md",
+    "Personagens/Principais/Saci Pererê.md",
     "Estrutura/Etapa 1.md",
+    "Ideias/Estrutura/Estrutura - ideia 2.md",
+    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Quadro/Contexto geral.canvas",
     "Tags",
     "Personagens/Secundários/Comunidade/Velho doido.md",
@@ -167,7 +171,6 @@
     "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
     "Personagens/Secundários/Comunidade/Catarina.md",
     "Ideias/Estrutura/Estrutura - ideia 4.md",
-    "Personagens/Principais/Menina.md",
     "Imagens/Menina/Menina.md",
     "Imagens/EstruturaDeMapas.drawio.svg",
     "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
@@ -175,12 +178,10 @@
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
     "Ideias/Estrutura/Estrutura - ideia 1.md",
     "Personagens/Principais/Curupira.md",
-    "Personagens/Principais/Saci Pererê.md",
     "Personagens/Principais/Matinta Perera.md",
     "Personagens/Principais/Iara.md",
     "Imagens/Matinta/Matinta - referência 12.png",
     "Imagens/Matinta/Matinta - referência 2.png",
-    "Ideias/Estrutura/Estrutura - ideia 2.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Untitled 1.md",

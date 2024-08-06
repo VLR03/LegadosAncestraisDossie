@@ -8,7 +8,7 @@ sticker: lucide//lightbulb
 
 2. Após um tempo caminhando teremos nossa primeira interação com o Saci Pererê. O Saci fará algumas piadas e brincadeiras com a personagem e em seguida fará surgir alguns inimigos para o jogador enfrentar. Durante ou após a luta, a personagem tem que ter várias interações relacionadas a estar com medo, estar com dor após a luta, etc. 
 
-3. Após a batalha o Saci vai ceder à insistência da garota e vai ter u diálogo expositivo para contextualizar a situação de modo geral e o que o jogador precisa fazer em seguida. Depois dessa interação ele vai sumir.
+3. Após a batalha o Saci vai ceder à insistência da garota e vai ter um diálogo expositivo para contextualizar a situação de modo geral e o que o jogador precisa fazer em seguida. Depois dessa interação ele vai sumir.
 
 ---
 # Justificativa
