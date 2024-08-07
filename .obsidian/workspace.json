@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Código/Mudança de Cena/Untitled.md",
+                "file": "Código/Animais/Scripts Andar + Procedural.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Código/Mudança de Cena/Untitled.md",
+                "file": "Código/Animais/Scripts Andar + Procedural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Código/Mudança de Cena/Untitled.md",
+                "file": "Código/Animais/Scripts Andar + Procedural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Código/Mudança de Cena/Untitled.md"
+                "file": "Código/Animais/Scripts Andar + Procedural.md"
               }
             }
           }
@@ -158,15 +158,35 @@
   },
   "active": "3d381c783d3c1a4e",
   "lastOpenFiles": [
-    "Quadro/Contexto geral.canvas",
-    "Código/Mudança de Cena/Untitled.md",
-    "Imagens/Pasted image 20240721161005.png",
-    "Imagens/Pasted image 20240721160957.png",
+    "Imagens/Pasted image 20240807193028.png",
+    "Código/Animais/Procedural.md",
+    "Código/Animais/Scripts Andar + Procedural.md",
+    "Código/Novo Inimigo/Criação de Novo Tipo de Inimigo.md",
+    "Código/Animais/Animais.md",
+    "Código/Animais",
+    "Imagens/Pasted image 20240806175141.png",
+    "Código/Drops/Dropar de um GMOBJ detsruído.md",
+    "Código/Novo Inimigo/Novo Inimigo.md",
+    "Código/Novo Inimigo",
     "Imagens/Pasted image 20240721160859.png",
     "Imagens/Pasted image 20240721160823.png",
     "Imagens/Pasted image 20240721160517.png",
     "Imagens/Pasted image 20240721160446.png",
-    "Imagens/Pasted image 20240721160351.png",
+    "Código/Drops/Novo Tipo de Drop.md",
+    "Imagens/Pasted image 20240730124108.png",
+    "Imagens/Pasted image 20240730123902.png",
+    "Imagens/Pasted image 20240730123821.png",
+    "Código/Drops/Drops.md",
+    "Código/Drops",
+    "Código/Untitled.md",
+    "Personagens/Principais/Cuca.md",
+    "Ideias/Estrutura/Estrutura - ideia 2.md",
+    "Ideias/Estrutura/Estrutura - ideia 1.md",
+    "Estrutura/Etapa 1.md",
+    "Código/Mudança de Cena/Untitled.md",
+    "Quadro/Contexto geral.canvas",
+    "Imagens/Pasted image 20240721161005.png",
+    "Imagens/Pasted image 20240721160957.png",
     "Código/Mudança de Cena/Mudança de Cena.md",
     "Código/Mudança de Cena",
     "Código/Código.md",
@@ -177,33 +197,14 @@
     "Ideias/Dialogo",
     "Ideias/Estrutura/Estrutura - ideia 3.md",
     "Ideias/Untitled.md",
-    "Ideias/Estrutura/Estrutura - ideia 2.md",
-    "Ideias/Estrutura/Estrutura - ideia 1.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Guaxinim.md",
-    "Imagens/EstruturaDeMapas.drawio.svg",
-    "Estrutura/Etapa 1.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
     "Tags",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
     "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Saci Pererê.md",
-    "Personagens/Principais/Matinta Perera.md",
-    "Personagens/Principais/Iara.md",
-    "Personagens/Principais/Menina.md",
-    "Imagens/Matinta/Matinta - referência 12.png",
-    "Imagens/Matinta/Matinta - referência 2.png",
-    "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
-    "Personagens/Secundários/Floresta/Animais/Normais/Untitled 1.md",
-    "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
-    "Personagens/Secundários/Comunidade/Catarina.md",
-    "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Ideias/Estrutura",
     "Imagens/Cuca",
-    "Imagens/Curupira",
-    "Imagens/Matinta",
-    "Imagens/Menina",
     "Personagens/Principais/Untitled.canvas"
   ]
 }

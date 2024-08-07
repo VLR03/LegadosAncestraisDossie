@@ -43,14 +43,12 @@
     "//1 - Personagens",
     "/",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
     "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais/Personagens/Secundários/Floresta/Animais/Normais",
-    "//Ideias/Ideias/Estrutura",
-    "//Ideias/Ideias/Dialogo",
-    "//Quadro",
     "//Código",
-    "//Código/Código/Mudança de Cena"
+    "//Código/Código/Inimigos",
+    "//Código/Código/Animais Procedural",
+    "//Código/Código/Animais"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
