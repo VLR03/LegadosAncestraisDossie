@@ -69,8 +69,32 @@ sticker: lucide//flower
 	- **[[Personagens/Principais/Menina|Menina]]:** "O que tá acontecendo?"
 	- **[[Personagens/Principais/Menina|Menina]]:** "Por que eles estavam daquele jeito?"
 	- **[[Personagens/Principais/Menina|Menina]]:** "O que aconteceu comigo?"
+	- **[[Saci Pererê]]:** "Ótimas perguntas, cujo as quais eu não faço ideia da resposta."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Escuta aqui, moleque. Eu tô perdendo minha paciência contigo! Então melhor me contar o que você sabe antes que eu desconte essa raiva em ti!"
+	- **[[Saci Pererê]]:** "Ok, ok, você sabe morder né, garota? Vou te dar uma dica."
+	- **[[Saci Pererê]]:** "A floresta tá sendo corrompida por uma força sombria. E, bom... a chefona da bagunça não vai ficar feliz contigo se metendo onde não é chamada."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Chefona? Quem? Preciso encontrar o meu irmão. Onde ele tá?!"
+	- **[[Saci Pererê]]:** "Boa sorte, garota. Vai precisar. Mas se continuar seguindo esse caminho, vai acabar encontrando mais do que procura... pro bem ou pro mal..."
+	- **[[Saci Pererê]]:** "Dito isso... valeu, falou!"
+	- **[[Personagens/Principais/Menina|Menina]]:** "Ei, volta aqui!"
 
 ---
 ## Cutscenes
+
+1. **Acordando na floresta:**
+	- **Cenário:** A [[Personagens/Principais/Menina|Menina]] acorda no meio de uma clareira, cercada por árvores imponentes. A luz da lua penetra pelas folhas.
+	- **Evento principal:** Ela se levanta, desorientada, e começa a explorar a floresta em busca do seu irmão.
+
+2. **Primeiro encontro com o [[Saci Pererê]]:**
+	- **Cenário:** A floresta densa e sombria. O [[Saci Pererê]] aparece de repente, assustando a [[Personagens/Principais/Menina|Menina]].
+	- **Evento principal:** O [[Saci Pererê]] faz piadas e provoca a [[Personagens/Principais/Menina|Menina]], antes de invocar os animais corrompidos.
+
+3. **Descoberta dos poderes:** 
+	- **Cenários:** Em meio a batalha com os animais corrompidos.
+	- **evento principal:** A [[Personagens/Principais/Menina|Menina]] descobre que pode purificar as criaturas tocando-as.
+
+4. **Diálogos com o [[Saci Pererê]]:**
+	- **Cenário:** Após a luta, na clareira.
+	- **Evento principal:** O Saci revela novas informações sobre a corrupção e a [[Personagens/Principais/Cuca|Cuca]], antes de desaparecer.
 
 ---
