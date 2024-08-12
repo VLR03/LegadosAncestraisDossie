@@ -50,7 +50,7 @@ sticker: lucide//user
 ---
 ## Relações
 
-- **[[Menino]]:** A relação com seu irmão é de profundo amor e proteção. Ele é sua principal motivação e a força que a impulsiona a continuar sua jornada.
+- **[[Bernardo]]:** A relação com seu irmão é de profundo amor e proteção. Ele é sua principal motivação e a força que a impulsiona a continuar sua jornada.
 
 - **[[Personagens/Principais/Cuca|Cuca]]:** A [[Personagens/Principais/Menina|Menina]] sente uma mistura de medo e raiva em relação à [[Personagens/Principais/Cuca|Cuca]], determinada a enfrentá-la para salvar seu irmão.
 

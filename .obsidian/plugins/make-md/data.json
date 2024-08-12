@@ -44,7 +44,12 @@
     "/",
     "//Personagens",
     "//Personagens/Personagens/Principais",
-    "//Estrutura"
+    "//Estrutura",
+    "//Quadro",
+    "//Personagens/Personagens/Secundários",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais",
+    "//Ideias"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

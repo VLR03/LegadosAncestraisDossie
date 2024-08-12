@@ -40,7 +40,7 @@ sticker: lucide//user
 
 - **[[Personagens/Principais/Menina|Menina]]:** [[Dona Marta]] tem um carinho especial pela protagonista, vendo nela um grande potencial e força. Ela a apoia e guia sempre que possível.
 
-- **[[Menino]]:** Ela tem uma relação protetora com o irmão mais novo da protagonista, cuidando dele como se fosse seu próprio neto.
+- **[[Bernardo]]:** Ela tem uma relação protetora com o irmão mais novo da protagonista, cuidando dele como se fosse seu próprio neto.
 
 - **[[Eloá]]:** [[Dona Marta]] vê [[Eloá]] como uma criança promissora e frequentemente a envolve em atividades que ensinam as tradições culturais da comunidade.
 
