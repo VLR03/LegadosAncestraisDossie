@@ -26,7 +26,7 @@ sticker: lucide//user
 
 - **[[Personagens/Principais/Menina|Menina]]:** [[Eloá]] admira a [[Personagens/Principais/Menina|Menina]] e vê nela uma figura inspiradora. Ela gosta de ouvir as histórias da [[Personagens/Principais/Menina|Menina]] e se inspira em seu caráter e personalidade, almejando ser como ela no futuro.
 
-- **[[Menino]]:** Ela é amiga do [[Menino]] e frequentemente brinca com ele.
+- **[[Bernardo]]:** Ela é amiga do [[Bernardo]] e frequentemente brinca com ele.
 
 - **[[Dona Marta]]:** [[Eloá]] vê [[Dona Marta]] como uma figura de referência e procura sempre aprender ao máximo com ela.
 

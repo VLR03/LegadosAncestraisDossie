@@ -20,7 +20,7 @@ sticker: lucide//flower
 
 - **[[Personagens/Principais/Menina|Menina]]:** A [[Personagens/Principais/Menina|Menina]] começa seu dia ajudando os moradores em várias tarefas. Ela é uma figura ativa na comunidade, sempre disposta a ajudar.
 
-- **[[Menino]]:** O irmão mais novo da [[Personagens/Principais/Menina|Menina]], que a acompanha nas tarefas e aprende com ela.
+- **[[Bernardo]]:** O irmão mais novo da [[Personagens/Principais/Menina|Menina]], que a acompanha nas tarefas e aprende com ela.
 
 - **[[Velha Nâmia]]:** Está no seu jardim medicinal, cuidando das plantas e oferecendo sabedoria aos que precisam.
 
@@ -68,24 +68,24 @@ sticker: lucide//flower
 2. **Casa da [[Dona Marta]]:** 
 	- **[[Dona Marta]]:** "Ah, vocês trouxeram as ervas! Maravilhoso. Muito obrigada, crianças!"
 	- **[[Dona Marta]]:** "Fiquem aí que vou já precisar de vocês."
-	- **[[Menino]]:** "Tem ensopado hoje, [[Dona Marta]]?"
+	- **[[Bernardo]]:** "Tem ensopado hoje, [[Dona Marta]]?"
 	- **[[Dona Marta]]:** "Se os meninos trouxerem os peixes que eu pedi..."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Com batatinha?!"
 	- **[[Dona Marta]]:** "Claro, querida."
 	- **[[Dona Marta]]:** "E... prontinho."
 	- **[[Dona Marta]]:** "O remédio tá pronto. Agora vocês amores, podem fazer o favor de levar isso pro Seu Pedro?"
 	- **[[Personagens/Principais/Menina|Menina]]:** "Claro, [[Dona Marta]]!"
-	- **[[Menino]]:** "E vamo garantir que eles tragam o peixe que a senhora pediu!!"
+	- **[[Bernardo]]:** "E vamo garantir que eles tragam o peixe que a senhora pediu!!"
 
 3. **Barracão de pesca:**
 	- **[[Seu Pedro]]:** "Obrigado pelo remédio, crianças. Minha costa tá me matando."
 	- **[[Personagens/Principais/Menina|Menina]]:** "[[Seu Pedro]], não acha que seria uma boa pedir pra [[Velha Nâmia]] dar uma olhada nisso?"
-	- **[[Menino]]:** "Tipo... pessoalmente?"
+	- **[[Bernardo]]:** "Tipo... pessoalmente?"
 	- **[[Seu Pedro]]:** "Que nada, [[Personagens/Principais/Menina|Menina]]. A [[Velha Nâmia]] tem coisas mais importantes pra se preocupar."
-	- **[[Menino]]:** "[[Seu Pedro]]! [[Seu Pedro]]!"
-	- **[[Menino]]:** "Vai pegar os peixes que a [[Dona Marta]] pediu? Ela precisa deles pro ensopado."
-	- **[[Seu Pedro]]:** "Humm se é pro famoso ensopado da [[Dona Marta]] eu vou garantir que a gente pesque eles, [[Menino]]."
-	- **[[Menino]]:** "Ebaaa!"
+	- **[[Bernardo]]:** "[[Seu Pedro]]! [[Seu Pedro]]!"
+	- **[[Bernardo]]:** "Vai pegar os peixes que a [[Dona Marta]] pediu? Ela precisa deles pro ensopado."
+	- **[[Seu Pedro]]:** "Humm se é pro famoso ensopado da [[Dona Marta]] eu vou garantir que a gente pesque eles, [[Bernardo]]."
+	- **[[Bernardo]]:** "Ebaaa!"
 	- **[[Seu Pedro]]:** "Agora licença, crianças. Precisamos ir."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Claro, [[Seu Pedro]]. Até mais tarde!"
 
@@ -96,19 +96,19 @@ sticker: lucide//flower
 	- **Mercador:** Esses guaxinins estão me infernizando!
 	- **Mercador:** Eles ficam roubando minhas mercadorias!
 	- **Mercador:** Preciso que vocês espantem eles pra mim. Se continuar assim eu vou perder tudo!
-	- **[[Personagens/Principais/Menina|Menina]]:** [[Menino]], espera aqui!
-	- **[[Menino]]:** Mana, não machuca eles.
+	- **[[Personagens/Principais/Menina|Menina]]:** [[Bernardo]], espera aqui!
+	- **[[Bernardo]]:** Mana, não machuca eles.
 	- **[[Personagens/Principais/Menina|Menina]]:** Não se preocupa, só vou espantá-los!
 
 5. **Frente da casa do [[Seu João]]:**
 	- **[[Pedrinho]]:** "[[Personagens/Principais/Menina|Menina]], [[Personagens/Principais/Menina|Menina]]!!"
 	- **[[Personagens/Principais/Menina|Menina]]:** "O que foi, [[Pedrinho]]? Aconteceu alguma coisa?"
 	- **[[Pedrinho]]:** "O pai da [[Eloá]] pegou a minha bola e não quer devolver. * chorando * "
-	- **[[Menino]]:** "De novo?"
+	- **[[Bernardo]]:** "De novo?"
 	- **[[Pedrinho]]:** "Sim, mas dessa vez ele disse que não vai devolver!"
 	- **[[Pedrinho]]:** "Por favor, eu preciso da ajuda de vocês..."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Calma, [[Pedrinho]]. Eu vou pegar a sua bola de volta."
-	- **[[Personagens/Principais/Menina|Menina]]:** "[[Menino]], fica aqui com o [[Pedrinho]]."
+	- **[[Personagens/Principais/Menina|Menina]]:** "[[Bernardo]], fica aqui com o [[Pedrinho]]."
 
 6. **[[Velho doido]] encarando o rio:** 
 	- **[[Personagens/Principais/Menina|Menina]]:** "Opa Velhão. Como o senhor tá?"
@@ -124,14 +124,14 @@ sticker: lucide//flower
 	- **[[Velha Nâmia]]:** "Estamos aqui reunidos para celebrar mais um dia de nossas vidas."
 	- **[[Velha Nâmia]]:** "Em comunhão com a floresta que nos rodeia, temos saúde, alimento, família e amor."
 	- **[[Velha Nâmia]]:** "Nada vale mais do que isso."
-	- **[[Menino]]:** "Por quê a gente tem que fazer isso toda noite?"
+	- **[[Bernardo]]:** "Por quê a gente tem que fazer isso toda noite?"
 	- **[[Personagens/Principais/Menina|Menina]]:** "Pra agradecer por mais um dia de nossas vidas, você sabe disso."
-	- **[[Menino]]:** "Eu sei, eu sei, mas é tão chato."
+	- **[[Bernardo]]:** "Eu sei, eu sei, mas é tão chato."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Não diga isso! Tenha respeito pela [[Velha Nâmia]]."
 	- **[[Personagens/Principais/Menina|Menina]]:** "E principalmente respeito pela floresta!"
-	- **[[Menino]]:** "Não fala assim comigo, só disse que é chato!"
-	- **[[Personagens/Principais/Menina|Menina]]:** "Já chega, [[Menino]]"!
-	- **[[Menino]]:** "Ah cansei, eu vou pra casa."
+	- **[[Bernardo]]:** "Não fala assim comigo, só disse que é chato!"
+	- **[[Personagens/Principais/Menina|Menina]]:** "Já chega, [[Bernardo]]"!
+	- **[[Bernardo]]:** "Ah cansei, eu vou pra casa."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Então vai! Ninguém precisa de você aqui se for só pra reclamar!"
 
 9. **Discussão do [[Seu Pedro]] com o [[Seu João]] durante a celebração (opcional):**
@@ -150,21 +150,21 @@ sticker: lucide//flower
 	- **[[Seu João]]:** "Pedro, faz um favor pra nós dois. Só... me deixa em paz. Não preciso de lição de moral."
 
 10. **Sequestro na casa dos irmãos:**
-	- **[[Menino]]:** * Dormindo *
+	- **[[Bernardo]]:** * Dormindo *
 	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Nana neném, que a Cuca vem pegar..."
 	- **[[Personagens/Principais/Cuca|Cuca]]:** (Cantando suavemente) "Papai foi na roça e mamãe foi trabalhar..."
-	- **[[Menino]]:** (Sonolento) "Mana?"
-	- **[[Menino]]:** * Grito *
+	- **[[Bernardo]]:** (Sonolento) "Mana?"
+	- **[[Bernardo]]:** * Grito *
 
 ---
 ## Cutscenes
 
 1. **Celebração na praça central:**
 	- **Cenário:** Os moradores se reúnem na praça central para celebrar um dia de paz e união. Todos estão alegres, e há música e dança.
-	- **Evento principal:** Discussão entre o [[Menino]] e a [[Personagens/Principais/Menina|Menina]].
+	- **Evento principal:** Discussão entre o [[Bernardo]] e a [[Personagens/Principais/Menina|Menina]].
 
 2. **Sequestro na casa dos irmãos:**
-	- **Cenário:** O [[Menino]] está dormindo em sua cama, a lua cheia ilumina suavemente o quarto.
+	- **Cenário:** O [[Bernardo]] está dormindo em sua cama, a lua cheia ilumina suavemente o quarto.
 	- **Evento principal:** A [[Personagens/Principais/Cuca|Cuca]] se aproxima, com suas garras afiadas e olhos brilhantes. Ela levanta o menino de sua cama com uma facilidade assustadora e desaparece na noite.
 
 3. **Perseguição:**

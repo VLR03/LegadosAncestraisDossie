@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +157,16 @@
   },
   "active": "3d381c783d3c1a4e",
   "lastOpenFiles": [
-    "Personagens/Principais/Menina.md",
+    "Personagens/Principais/Cuca.md",
+    "Personagens/Principais/Curupira.md",
     "Estrutura/Etapa 2.md",
-    "Personagens/Principais/Saci Pererê.md",
     "Estrutura/Etapa 1.md",
+    "Ideias/Ideia 1.md",
+    "Imagens/Pasted image 20240812154050.png",
+    "Imagens/Pasted image 20240812153605.png",
+    "Personagens/Principais/Menina.md",
+    "Personagens/Principais/Bernardo.md",
+    "Personagens/Principais/Saci Pererê.md",
     "Ideias/Estrutura/Estrutura - ideia 2.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Quadro/Contexto geral.canvas",
@@ -177,7 +182,6 @@
     "Personagens/Secundários/Floresta/Animais/Normais/Boto.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Anta corrompida.md",
     "Ideias/Estrutura/Estrutura - ideia 1.md",
-    "Personagens/Principais/Curupira.md",
     "Personagens/Principais/Matinta Perera.md",
     "Personagens/Principais/Iara.md",
     "Imagens/Matinta/Matinta - referência 12.png",
@@ -186,9 +190,6 @@
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Untitled 1.md",
     "Personagens/Secundários/Comunidade/Seu Pedro.md",
-    "Personagens/Secundários/Comunidade/Pedrinho.md",
-    "Personagens/Secundários/Comunidade/Seu João.md",
-    "Personagens/Secundários/Comunidade/Ladrão.md",
     "Ideias/Estrutura",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
@@ -196,8 +197,6 @@
     "Imagens/Cuca/Cuca - referência 5.png",
     "Imagens/Cuca/Cuca - referência 10.png",
     "Imagens/Cuca/Cuca - referência 9.png",
-    "Imagens/Cuca/Cuca - referência 8.png",
-    "Imagens/Cuca/Cuca - referência 7.png",
     "Imagens/Curupira",
     "Imagens/Matinta",
     "Imagens/Menina",

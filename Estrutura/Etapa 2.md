@@ -46,13 +46,13 @@ sticker: lucide//flower
 	- **[[Saci Pererê]]:** (Aparecendo repentinamente) "Boo!"
 	- **[[Personagens/Principais/Menina|Menina]]:** (Grita) "AAAAAAAAAAAA!!"
 	- **[[Saci Pererê]]:** "Hahahahahaha!!!"
-	- **[[Saci Pererê]]:** "Te assustei, foi?"
-	- **[[Personagens/Principais/Menina|Menina]]:** "Quem é você? O que tá fazendo aqui?"
+	- **[[Saci Pererê]]:** "Ora, ora, ora, o que temos aqui? Uma mocinha perdida na floresta. Por acaso tá procurando o caminho de volta pro quintal de casa é?"
+	- **[[Personagens/Principais/Menina|Menina]]:** (Assustada) "Quem é você? O que tá fazendo aqui?"
 	- **[[Saci Pererê]]:** "Jura que não me reconhece?"
-	- **[[Saci Pererê]]:** "Gênio, bonitão, carismático, a alegria da floresta..."
+	- **[[Saci Pererê]]:** "Gênio, bonitão, carismático, a alegria da floresta."
 	- **[[Personagens/Principais/Menina|Menina]]:** (encarando) "..."
 	- **[[Saci Pererê]]:** "É sério isso? Aiaiai..."
-	- **[[Saci Pererê]]:** "Eu... sou o [[Saci Pererê]]!!!"
+	- **[[Saci Pererê]]:** "Eu... sou o [[Saci Pererê]]!!!  O tornado brincalhão da floresta!"
 	- **[[Personagens/Principais/Menina|Menina]]:** (Segurando o riso) "Tsk..."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Tsk... Hahahahahahaha!!"
 	- **[[Saci Pererê]]:** (Encarando incrédulo) "Quê?"
@@ -60,7 +60,7 @@ sticker: lucide//flower
 	- **[[Saci Pererê]]:** "Tá rindo de quê, garota?"
 	- **[[Personagens/Principais/Menina|Menina]]:** "Você? O [[Saci Pererê]]...? Tá bom haha."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Mas sério, viu uma criança passando por aqui? É um menino pequeno, cabelo escuro..."
-	- **[[Saci Pererê]]:** "Aiai... acho que já deu!"
+	- **[[Saci Pererê]]:** "Aiaiai... ok, acho que acabou a brincadeira! Foi bom enquanto durou mas tenho outras coisas pra fazer, garota. Boa sorte... sendo devorada."
 
 2. **Diálogo após a luta contra os animais corrompidos:**
 	- **[[Saci Pererê]]:** "O que? O que você fez? Como fez isso?"
@@ -77,6 +77,39 @@ sticker: lucide//flower
 	- **[[Saci Pererê]]:** "Boa sorte, garota. Vai precisar. Mas se continuar seguindo esse caminho, vai acabar encontrando mais do que procura... pro bem ou pro mal..."
 	- **[[Saci Pererê]]:** "Dito isso... valeu, falou!"
 	- **[[Personagens/Principais/Menina|Menina]]:** "Ei, volta aqui!"
+
+3. **Diálogo durante a travessia da ponte que repousa sobre o encontro dos rios:** 
+	- **[[Saci Pererê]]:** (surge sentado na beira da ponte) "Cuidado aí, toquinho de amarra-jegue! Essa ponte é traiçoeira, viu? Vai que... Ah sei lá. Ela resolver brincar de esconde-esconde com você!" (Desaparece, e a ponte começa a desmoronar aos poucos, obrigando a [[Personagens/Principais/Menina|Menina]] a correr para não cair).
+	- **[[Personagens/Principais/Menina|Menina]]:** "Aaaa, meeerda!!!" (começa a correr).
+	- **[[Personagens/Principais/Menina|Menina]]:** (Tentando recuperar o fôlego) "Isso... não é... engraçado..."
+	- **[[Saci Pererê]]:** "Hahaha, pra mim é! Até daqui a pouco, pintora de rodapé!"
+
+4. **Diálogo durante o labirinto:** 
+	- **[[Saci Pererê]]:** (Sua risada ecoa pela floresta) "Será que você consegue sair dessa, ou vai precisar de um mapinha, hein? Acho que já ouvi alguém falar que sou bom com labirintos... mas acho que ele tava me zoando." (Ele se faz de guia, mas apenas leva a menina de volta ao ponto de partida).
+	- **[[Personagens/Principais/Menina|Menina]]:** "Para com isso, cara! Já é a segunda vez que tu me guia de volta pra entrada. Eu não tô aqui pra brincadeira!"
+	- **[[Saci Pererê]]:** "Mas eu tô, ué. Achou mesmo que eu ia te levar pra fora fácil assim? Nananinanão, vai ter que se esforçar pra conseguir passar, pingo-de-gente. Bem-vinda ao meu jogo!"
+
+5. **Batalha final contra o [[Saci Pererê]]:**
+	- **Antes da luta:**
+		- **[[Saci Pererê]]:** "Finalmente resolveu brincar sério, hein? Espero que esteja pronta,  salva-vidas de aquário. Porque eu não vou pegar leve só porque você tá perdida na floresta."
+		- **[[Personagens/Principais/Menina|Menina]]:** "Acabou a brincadeira [[Saci Pererê]]. Cadê... meu irmão?"
+		- **[[Saci Pererê]]:** "Ah, aquele rascunho? Pode até ser que eu saiba, mas você vai ter que mostrar do que é capaz pra conseguir o que quer. Porquê eu te garanto... tenho muito mais medo dela do que de você, miniatura."
+		- **[[Personagens/Principais/Menina|Menina]]:** "Então vem pra cima, perneta! "
+		- **[[Saci Pererê]]:** "Vamo ver se sua coragem não é só da boca pra fora."
+	- **Durante a luta:** 
+		- **[[Saci Pererê]]:** (Desaparece e reaparece rapidamente) "Eita, foi quase! Mas vai ter que ser mais rápida do que isso."
+		- **[[Saci Pererê]]:** (Quando chega à metade da vida) "Ufa! Essa doeu um pouco... Acho que você tem mais força do que parece, hein tampinha. Mas será o suficiente?"
+		- **[[Saci Pererê]]:** (Ao purificar a área) "O que?! Para com isso! Tá tentando mudar as regras do meu jogo aos 45 do segundo tempo?! Isso não vale!"
+	- **Depois da luta:**
+		- **[[Saci Pererê]]:** (Caído no chão, ofegante, mas ainda rindo) "Heh, tá bom, tá bom... Eu admito, você me pegou de jeito. Acho que subestimei você, mentira."
+		- **[[Personagens/Principais/Menina|Menina]]:** Mentira?
+		- **[[Saci Pererê]]:** "Tem perna curta... hahahaha."
+		- **[[Personagens/Principais/Menina|Menina]]:** "Cala a boca e me fala logo onde ele tá!"
+		- **[[Saci Pererê]]:** (Sorrindo, mas com um olhar mais sério do que o normal) "Eu não sou seu inimigo, sabia? Só fiz o que fiz porquê a manda-chuva do pedaço dá um apavoro que você não faz ideia. Ela ameaçou me transformar em um dos bichinhos dela, assim como fez com os outros."
+		- **[[Personagens/Principais/Menina|Menina]]:** "Outros? Do que você tá falando?"
+		- **[[Saci Pererê]]:** (Após se sentar) "Só saiba que se quiser chegar no seu irmão vai ter que passar por outros muito piores do que eu. Força bruta não vai ser o suficiente... Mas olha, quer saber, vou te dar uma mãozinha. Só vê se não se acostuma, hein."
+		- **[[Personagens/Principais/Menina|Menina]]:** "Por quê? Por que me ajudar agora?"
+		- **[[Saci Pererê]]:** Porque, apesar das trapaças e brincadeiras, eu adoro uma boa luta justa. E você me mostrou que, mesmo que baixa, tem uma chance de salvar seu irmão... hehe, piadinha intencional. Agora, vamo ver até onde você chega com essa coragem toda."
 
 ---
 ## Cutscenes

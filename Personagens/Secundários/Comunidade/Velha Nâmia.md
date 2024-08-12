@@ -38,7 +38,7 @@ sticker: lucide//user
 
 - **[[Personagens/Principais/Menina|Menina]]:** [[Velha Nâmia]] vê um grande potencial na [[Personagens/Principais/Menina|Menina]]. Ela oferece conselhos e suporte espiritual.
 
-- **[[Menino]]:** Ela tem um carinho especial pelo irmão mais novo da protagonista e acredita que ele também possui um destino especial.
+- **[[Bernardo]]:** Ela tem um carinho especial pelo irmão mais novo da protagonista e acredita que ele também possui um destino especial.
 
 - **[[Dona Marta]]:** [[Velha Nâmia]] e [[Dona Marta]] compartilham um profundo respeito mútuo. Ambas trabalham juntas para preservar a comunidade e transmitir o conhecimento às gerações mais jovens.
 

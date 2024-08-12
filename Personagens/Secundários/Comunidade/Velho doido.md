@@ -42,7 +42,7 @@ sticker: lucide//user
 
 - **[[Personagens/Principais/Menina|Menina]]:** A Menina simpatiza muito com o [[Velho doido]], apesar de não acreditar em nada do que ele diz, ela puxa papo só para que ele se sinta melhor.
 
-- **[[Menino]]:** O menino sente uma curiosidade natural pelo [[Velho doido]], ouvindo suas histórias com fascinação e ceticismo.
+- **[[Bernardo]]:** O menino sente uma curiosidade natural pelo [[Velho doido]], ouvindo suas histórias com fascinação e ceticismo.
 
 - **[[Dona Marta]]:** Dona Marta tem uma mistura de desdém e preocupação pelo [[Velho doido]], tentando cuidar dele apesar de sua insistência em contar histórias absurdas que assustam as crianças.
 

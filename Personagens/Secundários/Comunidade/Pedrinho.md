@@ -42,7 +42,7 @@ sticker: lucide//user
 
 - **[[Personagens/Principais/Menina|Menina]]:** [[Pedrinho]] admira a [[Personagens/Principais/Menina|Menina]] por toda a ajuda que ela presta dentro da comunidade e também gosta de ouvir suas histórias. Ele vê nela uma figura corajosa e inspiradora.
 
-- **[[Menino]]:** Ele é amigo do irmão mais novo da protagonista e frequentemente brinca com ele. Sua amizade é importante para ambos.
+- **[[Bernardo]]:** Ele é amigo do irmão mais novo da protagonista e frequentemente brinca com ele. Sua amizade é importante para ambos.
 
 - **[[Eloá]]:** Apesar de ser mais tímido com ela, [[Pedrinho]] gosta de brincar com [[Eloá]].
 
