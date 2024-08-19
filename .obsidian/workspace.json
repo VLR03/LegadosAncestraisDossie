@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura/Etapa 2.md",
+                "file": "Estrutura/Etapa 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrutura/Etapa 2.md",
+                "file": "Estrutura/Etapa 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrutura/Etapa 2.md",
+                "file": "Estrutura/Etapa 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrutura/Etapa 2.md"
+                "file": "Estrutura/Etapa 3.md"
               }
             }
           }
@@ -157,9 +157,11 @@
   },
   "active": "3d381c783d3c1a4e",
   "lastOpenFiles": [
+    "Estrutura/Etapa 2.md",
+    "Estrutura/Etapa 3.md",
+    "Tags",
     "Personagens/Principais/Cuca.md",
     "Personagens/Principais/Curupira.md",
-    "Estrutura/Etapa 2.md",
     "Estrutura/Etapa 1.md",
     "Ideias/Ideia 1.md",
     "Imagens/Pasted image 20240812154050.png",
@@ -170,7 +172,6 @@
     "Ideias/Estrutura/Estrutura - ideia 2.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
     "Quadro/Contexto geral.canvas",
-    "Tags",
     "Personagens/Secundários/Comunidade/Velho doido.md",
     "Personagens/Secundários/Comunidade/Eloá.md",
     "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
@@ -189,7 +190,6 @@
     "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
     "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
     "Personagens/Secundários/Floresta/Animais/Normais/Untitled 1.md",
-    "Personagens/Secundários/Comunidade/Seu Pedro.md",
     "Ideias/Estrutura",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
