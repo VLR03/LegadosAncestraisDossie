@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3692ddd1a8b6439f",
+        "id": "abde4476d40af052",
         "type": "tabs",
         "children": [
           {
-            "id": "3d381c783d3c1a4e",
+            "id": "1e839c8ea0312908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura/Etapa 3.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.50418853759766
   },
   "right": {
     "id": "ca2dbb2848b5a3ce",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrutura/Etapa 3.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrutura/Etapa 3.md",
+                "file": "Personagens/Principais/Cuca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrutura/Etapa 3.md"
+                "file": "Personagens/Principais/Cuca.md"
               }
             }
           }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,26 +156,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d381c783d3c1a4e",
+  "active": "1e839c8ea0312908",
   "lastOpenFiles": [
-    "Estrutura/Etapa 1.md",
-    "Estrutura/Etapa 3.md",
-    "ou.md",
-    "Personagens/Principais/Iara.md",
-    "Estrutura/Etapa 2.md",
-    "Personagens/Principais/Matinta Perera.md",
-    "Tags",
+    "Personagens/Secundários/Comunidade/Seu João.md",
+    "Personagens/Secundários/Comunidade/Dona Marta.md",
     "Personagens/Principais/Cuca.md",
-    "Personagens/Principais/Curupira.md",
+    "Quadro/Contexto geral.canvas",
     "Ideias/Ideia 1.md",
-    "Imagens/Pasted image 20240812154050.png",
-    "Imagens/Pasted image 20240812153605.png",
+    "Estrutura/Etapa 3.md",
+    "Estrutura/Etapa 2.md",
+    "Estrutura/Etapa 1.md",
     "Personagens/Principais/Menina.md",
     "Personagens/Principais/Bernardo.md",
     "Personagens/Principais/Saci Pererê.md",
+    "Personagens/Principais/Curupira.md",
+    "ou.md",
+    "Personagens/Principais/Iara.md",
+    "Personagens/Principais/Matinta Perera.md",
+    "Tags",
+    "Imagens/Pasted image 20240812154050.png",
+    "Imagens/Pasted image 20240812153605.png",
     "Ideias/Estrutura/Estrutura - ideia 2.md",
     "Personagens/Secundários/Comunidade/Velha Nâmia.md",
-    "Quadro/Contexto geral.canvas",
     "Personagens/Secundários/Comunidade/Velho doido.md",
     "Personagens/Secundários/Comunidade/Eloá.md",
     "Personagens/Secundários/Comunidade/Velho doido (Barba Ruiva).md",
@@ -188,8 +191,6 @@
     "Ideias/Estrutura/Estrutura - ideia 1.md",
     "Imagens/Matinta/Matinta - referência 12.png",
     "Imagens/Matinta/Matinta - referência 2.png",
-    "Personagens/Secundários/Floresta/Animais/Normais/Ariranha.md",
-    "Personagens/Secundários/Floresta/Animais/Corrompidos/Ariranha corrompida.md",
     "Ideias/Estrutura",
     "Imagens/Cuca/Cuca - referência 1.png",
     "Imagens/Curupira/Curupira - referência 1.png",
