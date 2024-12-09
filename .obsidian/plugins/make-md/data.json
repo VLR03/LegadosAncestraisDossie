@@ -42,11 +42,15 @@
   "expandedSpaces": [
     "//1 - Personagens",
     "/",
-    "//Personagens",
     "//Estrutura",
-    "//Ideias",
     "//Quadro",
-    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade"
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Comunidade",
+    "//Personagens/Personagens/Secundários",
+    "//Personagens/Personagens/Principais",
+    "//Personagens",
+    "//Imagens",
+    "//Imagens/Imagens/Menina",
+    "//Personagens/Personagens/Secundários/Personagens/Secundários/Floresta/Personagens/Secundários/Floresta/Animais"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

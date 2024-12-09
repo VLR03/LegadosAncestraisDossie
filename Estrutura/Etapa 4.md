@@ -14,7 +14,7 @@ sticker: lucide//flower
 ## Personagens
 
 - **[[Personagens/Principais/Menina|Menina]]:** Agora ciente do impacto que sua jornada teve no mundo ao redor, ela está determinada a salvar seu irmão, mesmo que isso signifique enfrentar a verdade sobre si mesma.
-- **[[Personagens/Principais/Cuca|Cuca]]:** A bruxa serpente, poderosa e manipuladora. Ela se deleita com o sofrimento que causa e guarda um segredo terrível sobre a Menina.
+- **[[Personagens/Principais/Cuca|Cuca]]:** A bruxa serpente, poderosa e manipuladora. Ela se deleita com o sofrimento que causa e guarda um segredo terrível sobre a [[Personagens/Principais/Menina|Menina]].
 - **[[Saci Pererê]]:** O aliado sarcástico, que agora assume um papel mais sério, oferecendo poderosos buffs à Menina para ajudá-la na luta contra a Cuca.
 - **[[Iara]]:** Agora purificada, a Iara oferece proteção e cura à Menina, usando seus poderes para manter a Menina viva durante a batalha contra a Cuca.
 
@@ -29,16 +29,16 @@ sticker: lucide//flower
 	- **Objetivo:** Derrotar a [[Personagens/Principais/Cuca|Cuca]] e libertar o [[Bernardo]].
 	- **Mecânicas:** A batalha é dividida em três fases, cada uma mais desafiadora que a anterior. Durante a luta, a Cuca revela a verdade sobre a Menina, afetando a moral do jogador e o curso da batalha.
 		- **Fase 1:** A [[Personagens/Principais/Cuca|Cuca]] usa ataques mágicos e ilusões para confundir a [[Personagens/Principais/Menina|Menina]].
-		- **Fase 2:** A Cuca se transforma em uma forma serpentina, atacando com veneno e constrição.
-		- **Fase 3:** A Cuca, enfurecida, revela a verdade: a Menina está morta. Nesta fase, a Menina recebe buffs de Saci e Iara, que a ajudam a superar o choque e derrotar a Cuca.
+		- **Fase 2:** A [[Personagens/Principais/Cuca|Cuca]] se transforma em uma forma serpentina, atacando com veneno e constrição.
+		- **Fase 3:** A [[Personagens/Principais/Cuca|Cuca]], enfurecida, revela a verdade: a Menina está morta. Nesta fase, a Menina recebe buffs de [[Saci Pererê]] e [[Iara]], que a ajudam a superar o choque e derrotar a [[Personagens/Principais/Cuca|Cuca]].
 
 3. **Revelação:** 
-	- **Objetivo:** Lidar com a revelação de que a Menina já está morta e encontrar uma maneira de seguir em frente.
-	- **Mecânicas:** Durante a batalha, a Cuca revela fragmentos da verdade, desestabilizando a Menina. O jogador deve manter a concentração e usar os buffs oferecidos por [[Saci Pererê]] e [[Iara]] para sobreviver aos ataques.
+	- **Objetivo:** Lidar com a revelação de que a [[Personagens/Principais/Menina|Menina]] já está morta e encontrar uma maneira de seguir em frente.
+	- **Mecânicas:** Durante a batalha, a [[Personagens/Principais/Cuca|Cuca]] revela fragmentos da verdade, desestabilizando a [[Personagens/Principais/Menina|Menina]]. O jogador deve manter a concentração e usar os buffs oferecidos por [[Saci Pererê]] e [[Iara]] para sobreviver aos ataques.
 
 4. **Resgate do irmão:** 
 	- **Objetivo:** Libertar o irmão e retornar a comunidade.
-	- **Mecânicas:** Após derrotar a Cuca, a Menina resgata seu irmão. Passando por todos os cenários que atravessamos durante o jogo, temos que enfrentar a verdade que, agora que cumprimos nosso objetivo, não há nada nos prendendo a este mundo.
+	- **Mecânicas:** Após derrotar a [[Personagens/Principais/Cuca|Cuca]], a [[Personagens/Principais/Menina|Menina]] resgata seu irmão. Passando por todos os cenários que atravessamos durante o jogo, temos que enfrentar a verdade que, agora que cumprimos nosso objetivo, não há nada nos prendendo a este mundo.
 
 ---
 ## Diálogos
@@ -71,7 +71,7 @@ sticker: lucide//flower
 	- **[[Personagens/Principais/Menina|Menina]]:** "Eu... talvez... mas o amor que sinto por ele, por todos que deixei... isso nunca vai morrer."
 	- **[[Personagens/Principais/Cuca|Cuca]]:** "Eu te odeio... eu ia viver pra sempre sua..."
 	- **[[Saci Pererê]]:** "Ok, chega de lenga-lenga! Já ouvi o suficiente de você, jararaca. Vamos dar o fora daqui, [[Personagens/Principais/Menina|Menina]]."
-	- **[[Iara]]:** "Você é forte, Menina. Não importa o que a [[Personagens/Principais/Cuca|Cuca]] diga, você provou que sua luz é mais forte do que qualquer escuridão. Seu irmão está seguro... e você estará sempre com ele, de uma forma ou de outra."
+	- **[[Iara]]:** "Você é forte, [[Personagens/Principais/Menina|Menina]]. Não importa o que a [[Personagens/Principais/Cuca|Cuca]] diga, você provou que sua luz é mais forte do que qualquer escuridão. Seu irmão está seguro... e você estará sempre com ele, de uma forma ou de outra."
 	- **[[Iara]]:** "Agora vá! Aproveite o tempo que lhe resta."
 
 4. **Ao libertar o [[Bernardo]]:**
@@ -84,7 +84,7 @@ sticker: lucide//flower
 	- **[[Bernardo]]:** "Eu sonhei com você, sabia? Enquanto tava com a [[Personagens/Principais/Cuca|Cuca]]... eu sonhei que estávamos juntos, em casa, na beira do rio. Você tava me ensinando a pescar, a gente ria bastante..."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Parece um sonho lindo, com o que mais você sonhou?"
 	- **[[Bernardo]]:** "Sonhei que nós dois passeávamos na floresta, ela era cheia de vida, de cor, e você falava com os animais como se fossem nossos amigos. E no fundo, eu sabia... sabia que você tava vindo me buscar. Mesmo quando tudo tava escuro, eu sentia que você tava por perto."
-	- **[[Personagens/Principais/Menina|Menina]]:** "Eu tava, sempre estive! Você me deu forçar pra continuar."
+	- **[[Personagens/Principais/Menina|Menina]]:** "Eu tava, sempre estive! Você me deu forças pra continuar."
 	- **[[Bernardo]]:** "Foi por isso que eu não chorei... Eu sabia que você tava lutando por mim. E agora... parece que o sonho tá finalmente se tornando realidade."
 	- **[[Personagens/Principais/Menina|Menina]]:** "Vamo continuar... a gente tá quase lá."
 
